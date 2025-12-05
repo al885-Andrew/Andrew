@@ -1,16 +1,16 @@
 {
-  "r": {
-    "version": "4.2.3",
-    "packages": [
-      "shiny",
-      "tidyverse",
-      "broom",
-      "lubridate",
-      "viridis",
-      "metR",
-      "bslib",
-      "dplyr"
-    ]
+  "version": 1,
+  "locale": "en_US.UTF-8",
+  "metadata": {
+    "appmode": "shiny",
+    "entrypoint": "app.R"
+  },
+  "platform": {
+    "type": "R",
+    "version": "4.3.0"
+  },
+  "packages": {
+    "R": []
   }
 }
 
