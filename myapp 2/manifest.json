@@ -1,6 +1,5 @@
 {
   "version": 1,
-  "locale": "en_US.UTF-8",
   "metadata": {
     "appmode": "shiny",
     "entrypoint": "app.R"
@@ -9,8 +8,6 @@
     "type": "R",
     "version": "4.3.0"
   },
-  "packages": {
-    "R": []
-  }
+  "locale": "en_US.UTF-8",
+  "packages": {}
 }
-
