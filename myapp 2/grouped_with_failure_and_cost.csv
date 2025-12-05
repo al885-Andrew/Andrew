@@ -1,0 +1,108 @@
+"Month","manufacturer","Fatalities","Everyone_Involved","FailureRate","Settlement_Cost"
+1,"Airbus",5,384,0.0130208333333333,7225433.55
+1,"BAE Systems",6,7,0.857142857142857,8670520.26
+1,"Beechcraft",0,0,0,0
+1,"Boeing",0,0,0,0
+1,"Bombardier",0,0,0,0
+1,"Cessna",0,0,0,0
+1,"Cirrus",0,0,0,0
+1,"Dassault",2,6,0.333333333333333,2890173.42
+1,"Fokker",1,4,0.25,1445086.71
+1,"Honda",0,0,0,0
+1,"Ilyushin",1,0,Inf,1445086.71
+1,"de Havilland Canada",5,6,0.833333333333333,7225433.55
+2,"Airbus",0,0,0,0
+2,"Beechcraft",0,0,0,0
+2,"Boeing",0,0,0,0
+2,"Bombardier",2,5,0.4,2890173.42
+2,"Britten-Norman",0,0,0,0
+2,"Cessna",1,18,0.0555555555555556,1445086.71
+2,"Embraer",0,0,0,0
+2,"Hawker",2,2,1,2890173.42
+2,"McDonnell Douglas",0,0,0,0
+3,"Antonov",0,0,0,0
+3,"Beechcraft",0,0,0,0
+3,"Boeing",0,0,0,0
+3,"Cessna",3,5,0.6,4335260.13
+3,"Fairchild",0,0,0,0
+3,"Ilyushin",15,15,1,21676300.65
+3,"Israel Aerospace Industries",5,5,1,7225433.55
+3,"Let",0,0,0,0
+3,"Lockheed",0,0,0,0
+3,"de Havilland Canada",2,46,0.0434782608695652,2890173.42
+4,"Beechcraft",0,0,0,0
+4,"Boeing",0,0,0,0
+4,"Bombardier",0,0,0,0
+4,"Cessna",0,0,0,0
+4,"Douglas",2,2,1,2890173.42
+4,"Short",0,0,0,0
+5,"Airbus",0,0,0,0
+5,"Antonov",0,0,0,0
+5,"Beechcraft",8,8,1,11560693.68
+5,"Boeing",1,229,0.00436681222707424,1445086.71
+5,"Cirrus",0,0,0,0
+5,"Embraer",1,1,1,1445086.71
+5,"Fokker",0,0,0,0
+6,"Airbus",0,0,0,0
+6,"Antonov",0,0,0,0
+6,"Boeing",0,0,0,0
+6,"Bombardier",0,0,0,0
+6,"Cessna",0,0,0,0
+6,"Fairchild",0,0,0,0
+6,"General Atomics AeroTec Systems",9,9,1,13005780.39
+7,"ATR",0,0,0,0
+7,"Airbus",0,0,0,0
+7,"Antonov",0,0,0,0
+7,"Boeing",0,0,0,0
+7,"Bombardier",20,21,0.952380952380952,28901734.2
+7,"Britten-Norman",1,5,0.2,1445086.71
+7,"Cessna",1,1,1,1445086.71
+7,"Hawker",0,0,0,0
+7,"Komsomolsk-on-Amur Aircraft Plant",3,3,1,4335260.13
+8,"ATR",62,62,1,89595376.02
+8,"Airbus",0,0,0,0
+8,"Antonov",0,0,0,0
+8,"Beechcraft",0,0,0,0
+8,"Boeing",0,0,0,0
+8,"Bombardier",0,0,0,0
+8,"Cessna",11,11,1,15895953.81
+8,"Cirrus",0,0,0,0
+8,"de Havilland Canada",3,5,0.6,4335260.13
+9,"ATR",0,0,0,0
+9,"Airbus",0,0,0,0
+9,"Beechcraft",0,0,0,0
+9,"Boeing",0,0,0,0
+9,"Bombardier",0,0,0,0
+9,"Cessna",0,0,0,0
+9,"Gulfstream",0,0,0,0
+9,"Viking",0,0,0,0
+10,"Airbus",1,0,Inf,1445086.71
+10,"Antonov",5,12,0.416666666666667,7225433.55
+10,"Beechcraft",1,1,1,1445086.71
+10,"Boeing",0,0,0,0
+10,"Bombardier",0,0,0,0
+10,"Cessna",0,0,0,0
+10,"Embraer",0,0,0,0
+10,"Ilyushin",5,5,1,7225433.55
+10,"de Havilland Canada",4,4,1,5780346.84
+11,"ATR",0,0,0,0
+11,"Airbus",0,0,0,0
+11,"Beechcraft",0,0,0,0
+11,"Boeing",1,4,0.25,1445086.71
+11,"Bombardier",0,0,0,0
+11,"Cirrus",0,0,0,0
+11,"Embraer",0,0,0,0
+11,"Honda",5,6,0.833333333333333,7225433.55
+11,"Let",0,0,0,0
+11,"Sukhoi",0,0,0,0
+11,"de Havilland Canada",0,0,0,0
+12,"ATR",0,0,0,0
+12,"Airbus",1,79,0.0126582278481013,1445086.71
+12,"Antonov",0,0,0,0
+12,"Boeing",179,181,0.988950276243094,258670521.09
+12,"Bombardier",2,2,1,2890173.42
+12,"Britten-Norman",5,5,1,7225433.55
+12,"Cessna",2,2,1,2890173.42
+12,"Embraer",38,67,0.567164179104478,54913294.98
+12,"Lockheed",0,0,0,0
+NA,"",401,0,Inf,579479770.71

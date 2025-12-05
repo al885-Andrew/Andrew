@@ -1,0 +1,15 @@
+{
+  "r": {
+    "version": "4.3.0",
+    "packages": [
+      "shiny",
+      "tidyverse",
+      "broom",
+      "lubridate",
+      "viridis",
+      "metR",
+      "bslib",
+      "dplyr"
+    ]
+  }
+}
