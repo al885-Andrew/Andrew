@@ -1,0 +1,877 @@
+Date,Year,Aircraft Type,Manufacturer,Registration,Operator,Fatalities,Location,Damage,Causes,Total Seats,Everyone Involved
+29-Dec-24,2024,Boeing 737-8AS (WL),Boeing,HL8088,Jeju Air,179,Muan International Airport (MWX/RKJB),w/o,Bird Strike,181,181
+21-Mar-22,2022,Boeing 737-89P (WL),Boeing,B-1791,China Eastern Airlines,132,"20 km SW of Wuzhou, Tengxian County",w/o,Pilot Error,132,132
+15-Jan-23,2023,ATR 72-500 (72-212A),ATR,9N-ANC,Yeti Airlines,72,2 km WNW of Pokhara International Airport (VNPR),w/o,Mechanical Failure,72,72
+9-Jan-21,2021,Boeing 737-524 (WL),Boeing,PK-CLC,Sriwijaya Air,62,19 km NE of Jakarta-Soekarno-Hatta International Airport (CGK),w/o,Maintenance ,62,62
+9-Aug-24,2024,ATR 72-500 (72-212A),ATR,PS-VPB,Voepass Linhas Aéreas,62,"near Vinhedo, SP",w/o,Undetermined,62,62
+4-Jul-21,2021,Lockheed C-130H Hercules,Lockheed,5125,Hukbong Himpapawid ng Pilipinas (Philippine Air Force),53,"Patikul, Sulu",w/o,Undetermined,96,99
+25-Dec-24,2024,Embraer ERJ-190AR,Embraer,4K-AZ65,Azerbaijan Airlines,38,5 km NW of Aktau Airport (SCO/UATE),w/o,Miscellaneous,67,67
+6-Jul-21,2021,Antonov An-26B-100,Antonov,RA-26085,Kamchatka Aviation Enterprise,28,"3,8 km NW of Palana Airport",w/o,Pilot Error,28,28
+29-May-22,2022,de Havilland Canada DHC-6 Twin Otter 300,de Havilland Canada,9N-AET,Tara Air,22,Sanosware,w/o,Pilot Error,22,22
+6-Nov-22,2022,ATR 42-500,ATR,5H-PWF,Precision Air,19,off Bukoba Airport (BKZ),sub,Pilot Error,43,43
+24-Jul-24,2024,Bombardier CRJ-200ER,Bombardier,9N-AME,Saurya Airlines,18,Kathmandu-Tribhuvan Airport (KTM/VNKT),w/o,Pilot Error,19,19
+10-Oct-21,2021,Let L-410UVP-E3,Let,RF-94591,DOSAAF,16,"1,7 km E of Menzelinsk Airport",w/o,Mechanical Failure,22,22
+12-Mar-24,2024,Ilyushin Il-76MD,Ilyushin,RF-76551,117 VTAP Russian Air Force,15,"near Ivanovo Severny Air Base, Ivanovo Oblast",w/o,Fire,15,15
+26-Feb-22,2022,Cessna 208B Grand Caravan,Cessna,5H-MZA,AB Aviation,14,"2,5 km NW off Mohéli-Bandar es Eslam Airport (NWA)",w/o,Undetermined,14,14
+16-Sep-23,2023,Embraer EMB-110P1 Bandeirante,Embraer,PT-SOG,Manaus Aerotaxi,14,"Barcelos Airport, AM (BAZ/SWBC)",w/o,Runway ,14,14
+10-Jun-21,2021,Beechcraft 1900D,Beechcraft,4610,Tatmadaw Lei (Myanmar Air Force),12,near Pyin Oo Lwin,w/o,Undetermined,16,16
+29-Oct-23,2023,Cessna 208B Grand Caravan,Cessna,PT-MEE,ART Táxi Aéreo Ltda,12,"near Rio Branco–Plácido de Castro Intl. Airport (RBR), AC",w/o,Pilot Error,12,12
+21-May-21,2021,Beechcraft B300 King Air 350i,Beechcraft,NAF203,Nigerian Air Force - NAF,11,near Kaduna Airport (KAD),w/o,Undetermined,11,11
+1-Mar-22,2022,Shaanxi Y-8Q,Shaanxi,,China Naval Air Force - Unit 92967,11,"off Sanya, Hainan Province",w/o,Undetermined,11,11
+11-May-22,2022,Viking Air DHC-6 Twin Otter 400,Viking,TJ-TIM,Caverton Helicopters (Cameroun) Ltd.,11,near Nanga Eboko,w/o,Pilot Error,11,11
+17-Aug-23,2023,Raytheon 390 Premier I,Raytheon,N28JV,Jet Valet Sdn Bhd,10,"Elmina, Shah Alam, near Sultan Abdul Aziz Shah Airport (SZB/WMSA)",w/o,Pilot Error,8,10
+2-Mar-21,2021,Let L-410UVP-E,Let,(HK-4274),South Sudan Supreme Airlines,10,Pieri,w/o,Mechanical Failure,10,10
+4-Sep-22,2022,de Havilland Canada DHC-3T Turbine Otter,de Havilland Canada,N725TH,Friday Harbor Seaplane Tours,10,"3 km SW off Freeland, WA",w/o,Mechanical Failure,10,10
+23-Aug-23,2023,Embraer EMB-135BJ Legacy 600,Embraer,RA-02795,"MNT-Aero, opf Wagner Group",10,"near Kuzhenkino, Tver Region",w/o,Pilot Error,10,10
+3-Nov-21,2021,Antonov An-12BK,Antonov,EW-518TI,Grodno Aircompany,9,3 km SE of Irkutsk Airport (IKT),w/o,Miscellaneous,9,9
+15-Dec-21,2021,Gulfstream G-IVSP,Gulfstream,HI1050,Helidosa Aviation Group,9,Santo Domingo-Las Américas International Airport (SDQ),w/o,Mechanical Failure ,9,9
+23-Jul-23,2023,Antonov An-26?,Antonov,,,9,Port Sudan Airport (PZU),w/o,Pilot Error,10,10
+22-Aug-24,2024,Cessna 208B Grand Caravan,Cessna,HS-SKR,Thai Flying Service Co Ltd,9,"Wat Khao Din, Bang Pakong District, Chachoengsao Province",w/o,Undetermined,9,9
+10-Jun-24,2024,Dornier 228-202K,Dornier,MAF-T03,Malawi Air Force (MAF),9,"Chikangawa Forest Reserve, Mzimba District",w/o,Pilot Error,9,9
+14-Aug-21,2021,Beriev Be-200ChS,Beriev,RF-88450,Russian Navy,8,near Kahramanmaras,w/o,Undetermined,8,8
+16-Jul-22,2022,Antonov An-12BK,Antonov,UR-CIC,Meridian,8,16 km W of Kavala,w/o,Mechanical Failure,8,8
+9-May-24,2024,Beechcraft B200 Super King Air,Beechcraft,YV3296,Latino Americana de la Construcción,8,"Lake Maracaibo, Zulia",w/o,Pilot Error,8,8
+21-Feb-21,2021,Beechcraft B300 King Air 350,Beechcraft,NAF201,Nigerian Air Force - NAF,7,NE of Abuja-Nnamdi Azikiwe International Airport (ABV),w/o,Mechanical Failure,7,7
+29-May-21,2021,Cessna 501 Citation I/SP,Cessna,N66BK,JL&GL Productions LP,7,"near Smyrna Airport, TN (MQY)",w/o,Pilot Error,7,7
+14-Sep-21,2021,Beechcraft B200GT King Air 250,Beechcraft,PS-CSM,CSM Agropecuária,7,"1,5 km N of Piracicaba Airport, SP (QHB)",w/o,Pilot Error,7,7
+12-Nov-22,2022,Boeing B-17G Flying Fortress,Boeing,N7227C,American Airpower Heritage Museum,6,"Dallas Executive Airport, TX (RBD/KRBD)",w/o,Undetermined,5,6
+17-Jul-23,2023,Cessna 208B Grand Caravan,Cessna,SP-WAW,Skydive Warsaw,6,Chrcynno Airfield (EPNC),w/o,Undetermined,3,8
+21-Feb-21,2021,Learjet 45XR,Learjet,3912,Fuerza Aérea Mexicana,6,near Xalapa Airport (JAL),w/o,Fire,6,6
+26-Jul-21,2021,Bombardier CL-600-2B16 Challenger 605,Bombardier,N605TR,Aeolus Air Charter,6,"Truckee Airport, CA (TKF)",w/o,Pilot Error,6,6
+22-Sep-21,2021,Antonov An-26KPA,Antonov,RA-26673,LPS Flight Checks & Systems,6,40 km SW of Khabarovsk,w/o,ATC/Pilot Miscommunication,6,6
+22-Jun-22,2022,Learjet 55C,Learjet,YV3304,private,6,7 km SSE of Charallave-Óscar Machado Zuloaga Airport,w/o,Miscellaneous,6,6
+23-Jun-23,2023,Cessna 208 Caravan 675,Cessna,PK-SMW,SAM Air,6,12 km S of Elelim,w/o,Pilot Error,6,6
+8-Jul-23,2023,Cessna 550 Citation II,Cessna,N819KR,Prestige Worldwide Flights LLC,6,"0,2 km N of Murrieta/Temecula-French Valley Airport, CA (RBK)",w/o,Undetermined,6,6
+23-Jan-24,2024,BAe 3212 Jetstream 32,BAE,C-FNAA,Northwestern Air,6,"near Fort Smith Airport, NT (YSM/CYSM)",w/o,Undetermined,7,7
+5-Nov-24,2024,Honda HA-420 HondaJet,Honda,N57HP,Ice Man Holdings LLC,5,"Falcon Field Airport (MSC/KFFZ), Mesa, AZ",w/o,Undetermined,5,6
+2-Jan-24,2024,Airbus A350-941,Airbus,JA13XJ,Japan Airlines (JAL),5,Tokyo International Airport/Haneda (HND/RJTT),w/o,ATC/Pilot Miscommunication,379,384
+1-Jan-21,2021,Antonov An-2,Antonov,,Korean People's Army Air and Anti-Air Force (KPAAF),5,near Taechon Air Base,w/o,Mechanical Failure,5,5
+1-Mar-21,2021,Beechcraft B300 King Air 350i,Beechcraft,B-10GD,"Beidahuang General Airlines, opf China Met, Administration",5,"Shanghu, Ji'an County",w/o,Maintenance ,5,5
+19-Jun-21,2021,Let L-410UVP-E,Let,RF-94603,DOSAAF,5,near Tanay Airfield,w/o,Mechanical Failure,19,19
+2-Nov-21,2021,Antonov An-26,Antonov,TR-NGT,"Optimum Aviation, opf Euro Airlines",5,"2,5 km N of Juba Airport (JUB)",w/o,Pilot Error,5,5
+23-Dec-21,2021,Shorts 360-300,Short,9S-GPS,Malu Aviation,5,"14,8 km NW of Shabunda",w/o,Pilot Error,5,5
+24-Feb-22,2022,Antonov An-26,Antonov,59 blue,Ukraine Air Force,5,ca 2 km N of Zhukivtsi,w/o,Miscellaneous,14,14
+24-Jun-22,2022,Ilyushin Il-76MD,Ilyushin,RF-78778,Russian Air Force,5,5 km ESE of Ryazan-Dyagilevo Air Base,w/o,Fire,9,9
+6-Nov-22,2022,Cessna 208B Grand Caravan,Cessna,AMB 0956,Aviación Militar Bolivariana,5,3 km from Puerto Ayacucho Airport (PYH),w/o,Pilot Error,5,5
+22-Feb-23,2023,Beechcraft B200 Super King Air,Beechcraft,N55PC,CTEH,5,"1,5 km S of Little Rock-Bill and Hillary Clinton National Airport, AR (LIT)",w/o,Undetermined,5,5
+22-Dec-24,2024,Britten-Norman BN-2B-26 Islander,Britten-Norman,P2-SAM,North Coast Aviation,5,"5.7 nm ENE of Sapmanga, Kabwum District, Morobe Province",w/o,Pilot Error,5,5
+21-Oct-24,2024,Ilyushin Il-76T,Ilyushin,ST-JAN,Sudan Government/Air Force (unconfirmed),5,"near Al Mahla, North Darfur",w/o,Miscellaneous,5,5
+10-Mar-24,2024,IAI 1125 Astra SP,IAI,N1125A,SkyJet Elite,5,"near Ingalls Field Airport (KHSP), Hot Springs, VA",w/o,Undetermined,5,5
+2-Jan-24,2024,de Havilland Canada DHC-8-315Q MPA,de Havilland Canada,JA722A,Japan Coast Guard,5,Tokyo-Haneda Airport (HND/RJTT),w/o,ATC/Pilot Miscommunication,6,6
+25-Oct-24,2024,Antonov An-2,Antonov,ST-CPJ,Crop Protection Sudan,4,"Al-Fashaga Al-Kubra, Gedaref State",sub,Undetermined,3,7
+12-Jan-21,2021,Harbin Y-12-II,Harbin,,Kenya Air Force - KAF,4,ca 10 km N of Voi,w/o,Undetermined,4,4
+13-Mar-21,2021,Antonov An-26,Antonov,02 white,Kazakhstan Border Guards,4,Almaty Airport (ALA),w/o,Miscellaneous,6,6
+2-Sep-21,2021,Cessna 560XLS+ Citation XLS+,Cessna,N560AR,Brook Haven Properties LLC,4,"0,4 km N of Plainville-Robertson Airport, CT",w/o,Pilot Error,4,4
+12-Sep-21,2021,Let L-410UVP-E20,Let,RA-67042,"Aeroservice, opf SiLA - Siberian Light Aviation",4,3 km N of Kazachinskoye Airport,w/o,Pilot Error,16,16
+13-Nov-21,2021,Britten-Norman BN-2A-6 Islander,Britten-Norman,N866JA,Island Airways,4,"0,1 km S of Beaver Island-Welke Airport, MI",w/o,Pilot Error,5,5
+27-Dec-21,2021,Learjet 35A,Learjet,N880Z,Aeromedevac Air Ambulance,4,"El Cajon, San Diego",w/o,Pilot Error,4,4
+1-Jul-22,2022,Learjet 35A,Learjet,LV-BPA,Flying America SA,4,"Río Grande-Gobernador Ramón Trejo Noel International Airport, TF (RGA)",w/o,Mechanical Failure,4,4
+4-Sep-22,2022,Cessna 551 Citation II/SP,Cessna,OE-FGR,GG Rent,4,37 km NW off Ventspils (Baltic Sea),w/o,Mechanical Failure,4,4
+18-Nov-22,2022,Cessna 208B Grand Caravan EX,Cessna,N2069B,Raisbeck Engineering,4,"near Snohomish, WA",w/o,Pilot Error,4,4
+4-Jun-23,2023,Cessna 560 Citation V,Cessna,N611VG,Encore Motors of Melbourne Inc,4,"near Montebello, VA",w/o,Pilot Error,4,4
+1-Nov-23,2023,Learjet 35A,Learjet,XA-IRE,Jet Rescue Air Ambulance,4,Cuernavaca Airport (CVJ/MMCB),w/o,Pilot Error,4,4
+20-Oct-24,2024,de Havilland Canada DHC-6 Twin Otter 300,de Havilland Canada,PK-SMH,SAM Air,4,"Gorontalo Province, Sulawesi Island",w/o,Undetermined,4,4
+8-Aug-24,2024,de Havilland Canada DHC-5A Buffalo,de Havilland Canada,7Q-STB,Nyasa Air Charters,3,Pieri Payam Airstrip,w/o,Undetermined,2,6
+16-Jun-21,2021,Let L-410UVP-E,Let,9S-GRJ,Kin Avia,3,near Bukavu-Kavumu Airport (BKY),w/o,Undetermined,3,3
+8-Jul-21,2021,Douglas DC-3C,Douglas,HK-2820,ALIANSA Colombia,3,"13,5 km N of Villavicencio-La Vanguardia Airport (VVC)",w/o,Pilot Error,3,3
+17-Aug-21,2021,Ilyushin Il-112V,Ilyushin,41400,United Aircraft Corporation,3,near Kubinka AFB,w/o,Fire,3,3
+15-Sep-21,2021,de Havilland Canada DHC-6 Twin Otter 300,de Havilland Canada,PK-OTW,Rimbun Air,3,"3,4 km from Bilogai/Sugapa Airport (ZGP)",w/o,Miscellaneous,3,3
+10-Sep-22,2022,Antonov An-28,Antonov,9S-GAX,TRACEP-Congo Aviation,3,13 km W of Bukavu-Kavumu Airport (BKY),w/o,Pilot Error,3,3
+3-Nov-22,2022,Let L-410UVP-E20,Let,9S-GPK,Goma Express,3,c 115 km ESE of Kasese,w/o,Undetermined,3,3
+10-May-23,2023,Learjet 36A,Learjet,N56PA,Phoenix Air,3,"1,7 km SW off San Clemente Island, CA",w/o,Pilot Error,3,3
+28-Jul-23,2023,Cessna 650 Citation VII,Cessna,XB-VFJ,Unknown,3,off Veracruz,w/o,Pilot Error,3,3
+12-Jul-24,2024,Sukhoi Superjet 100-95LR,Sukhoi,RA-89049,Gazpromavia,3,"Ozyorsky District, Moskow Region",w/o,Maintenance ,3,3
+21-Dec-21,2021,Cessna 208B Super Cargomaster,Cessna,N1116N,Martinaire,2,"Fulshear, TX",w/o,Pilot Error,1,2
+2-Sep-22,2022,Airbus A320-251N,Airbus,CS-TVI,TAP Air Portugal,2,Conakry-Gbessia International Airport (CKY),sub,Miscellaneous,79,81
+18-Nov-22,2022,Airbus A320-271N,Airbus,CC-BHB,LATAM Perú,2,Lima-Jorge Chávez International Airport (LIM),w/o,Miscellaneous,108,110
+5-Mar-24,2024,de Havilland Canada DHC-8-315Q,de Havilland Canada,5Y-SLK,Safarilink Aviation,2,near Nairobi-Wilson Airport (HKNW),min,ATC/Pilot Miscommunication,44,46
+20-Mar-21,2021,Cessna 208B Grand Caravan,Cessna,5Y-JKN,Aeronav Air Services,2,"3,5 km SW of Marsabit Airport (RBT)",w/o,Pilot Error,2,2
+5-Jul-21,2021,IAI 1124A Westwind II,IAI,N790JR,Transenergie Inc,2,near Treasure Cay Airport (TCB),w/o,Pilot Error,2,2
+5-Oct-21,2021,Dassault Falcon 20C,Dassault,N283SA,Sierra West Airlines,2,"1,3 km W of Thomson-McDuffie County Airport, GA",w/o,Pilot Error,2,2
+11-Feb-22,2022,Antonov An-2R,Antonov,RA-33599,Kamchatsky Krechet,2,"1 km SW of Koryaki, Yelizovsky district, Kamchatka",w/o,Pilot Error,2,2
+11-May-22,2022,Cessna 208 Caravan I,Cessna,PT-OQR,"LBK Serviço Aéreo Especializado, opf Skydive4Fun",2,"Boituva, SP",sub,Mechanical Failure,16,16
+21-Jun-22,2022,Antonov An-2R,Antonov,RA-17742,Techservice,2,"46 km SE of Sebyan-Kyuel, Kobyaysky District",w/o,Pilot Error,3,3
+15-Jul-22,2022,Antonov An-2R,Antonov,RA-02240,private,2,"Prochnookopskaya, Novokubansky district, Krasnodar region",sub,Pilot Error,2,2
+3-Sep-22,2022,Shorts SC.7 Skyvan 3M-400,Short,SP-HIP,SkyForce,2,2 km SSW of Piotrków Trybunalski-Bujny Airport,w/o,Undetermined,2,2
+27-Oct-22,2022,Canadair CL-215-6B11 (CL-415),Canadair,I-DPCN,Vigili del Fuoco,2,"near Linguaglossa, Sicily",w/o,Pilot Error,2,2
+30-Dec-22,2022,Canadair CL-600S Challenger 600,Canadair,XB-SGV,private,2,near Venado,w/o,Pilot Error,2,2
+9-Jan-23,2023,Antonov An-2R,Antonov,RA-71165,Naryan-Mar Air Enterprise,2,10 km SW of Karatayka,w/o,Pilot Error,12,12
+28-Feb-23,2023,Cessna 208B Grand Caravan,Cessna,C-GMVB,"Wilderness North Air, dba ZAM Air Service",2,"57 km NNW of Nakina, ON",w/o,Undetermined,2,2
+15-May-23,2023,Learjet 35A,Learjet,D-CGFQ,GFD Aviation,2,Hohn Air Base (ETNH),w/o,Undetermined,2,2
+20-May-23,2023,Viking Air DHC-6 Twin Otter 400,Viking,N153QS,Seafly LLC,2,"54 km W off Half Moon Bay Airport, CA (HAF)",w/o,Undetermined,2,2
+25-Jul-23,2023,Canadair CL-215-1A10,Canadair,1055,Elleniki Polemikí Aeroporía,2,near Platanistos,w/o,Pilot Error,2,2
+22-Aug-23,2023,Beechcraft C99 Commuter,Beechcraft,N55RP,"UAS Transervices Inc, opb. Wiggins Airways",2,"near Litchfield, ME",w/o,Undetermined,2,2
+23-Sep-23,2023,Ilyushin Il-76TD,Ilyushin,TZ-98T,Malian Air Force,2,Gao International Airport (GAQ/GAGO),w/o,Pilot Error,0,2
+16-Oct-23,2023,Cessna 208B Grand Caravan,Cessna,V3-HIN,Maya Island Air,2,0.5 nm N of Placencia Airport (PLJ),w/o,Pilot Error,2,2
+18-Dec-24,2024,Bombardier BD-100-1A10 Challenger 300,Bombardier,LV-GOK,"New Lines, S.A.",2,"near San Fernando Airport (SADF), San Fernando, BA",w/o,Undetermined,2,2
+17-Dec-24,2024,Cessna 208B Grand Caravan,Cessna,N689KA,Kamaka Air LLC,2,"near Daniel K. Inouye International Airport (HNL/PHNL), Honolulu, HI",w/o,Undetermined,2,2
+20-Aug-24,2024,Cessna 550 Citation II,Cessna,N689VP,N689VP LLC,2,"Odessa-Schlemeyer Field (ODO/KODO), Odessa, TX",w/o,Undetermined,2,2
+23-Jul-24,2024,Learjet 35,Learjet,PP-ERR,Private,2,"near Matupá Airport, MT (MBK/SWXM)",w/o,Undetermined,2,2
+23-Apr-24,2024,Douglas C-54D-DC (DC-4),Douglas,N3054V,Alaska Air Fuel,2,"near Fairbanks International Airport (FAI), Fairbanks, AK",w/o,Maintenance ,2,2
+6-Mar-24,2024,Cessna 208B Grand Caravan,Cessna,PR-AAB,Polícia Federal Brasil,2,"Belo Horizonte/Pampulha - Carlos Drummond de Andrade Airport, MG (PLU)",w/o,Mechanical Failure,3,3
+9-Feb-24,2024,Bombardier CL-600-2B16 Challenger 604,Bombardier,N823KD,Ace Aviation Services dba Hop-A-Jet,2,"near Naples Airport (APF/KAPF), Naples, FL",w/o,Maintenance ,5,5
+7-Feb-24,2024,Hawker 900XP,Hawker,N900VA,Clay Lacy Aviation opb Vici Aviation LLC,2,"near Westwater, UT",w/o,Undetermined,2,2
+20-Jan-24,2024,Dassault Falcon 10,Dassault,RA-09011,Athletic Group LLC,2,"Topkana area, Kuran wa Munjan District, Badakkhshan province",w/o,Mechanical Failure,6,6
+15-Oct-21,2021,Cessna 208B Grand Caravan,Cessna,8R-GFA,Air Services Limited - ASL,1,Kamarang Airport (KAR/SYKM),non,Miscellaneous,1,2
+16-Oct-22,2022,Cirrus SF50 Vision Jet G2,Cirrus,HK-5342G,Panamerican Training Center - PTC,1,Santa Marta-Simón Bolívar Airport (SMR),sub,Pilot Error,7,8
+31-Dec-22,2022,Embraer ERJ-175LR (ERJ-170-200 LR),Embraer,N264NN,"American Eagle, opb Envoy Air",1,"Montgomery Regional Airport (MGM/KMGM), Montgomery, AL",min,Miscellaneous,63,64
+8-Feb-23,2023,Cessna 208B Grand Caravan,Cessna,5Y-EMM,Transition Aviation,1,Ulang airstrip,min,Miscellaneous,4,5
+23-Jun-23,2023,Airbus A319-114,Airbus,N370NB,Delta Air Lines,1,"San Antonio International Airport, TX (SAT/KSAT)",min,Miscellaneous,0,1
+29-May-24,2024,Embraer ERJ-190STD,Embraer,PH-EZL,KLM Cityhopper,1,Amsterdam-Schiphol International Airport (AMS/EHAM),min,Miscellaneous,0,1
+11-Feb-24,2024,Cessna 208B Grand Caravan,Cessna,N80GE,Skydive Puerto Escondido,1,Puerto Escondido,sub,Mechanical Failure,17,18
+9-Jan-21,2021,Cessna 560 Citation V,Cessna,N3RB,SX Transport LLC,1,"23 km SE of Pine Grove, OR",w/o,Pilot Error,1,1
+20-Apr-21,2021,Learjet 35A,Learjet,PR-MLA,Eletric Power Construção,1,"Belo Horizonte/Pampulha - Carlos Drummond de Andrade Airport, MG (PLU)",w/o,Runway,3,3
+26-Jul-21,2021,Cessna 208 Supervan 900,Cessna,D-FLEC,Skydive Binz,1,S off Norderney Airfield (NRD),w/o,Undetermined,1,1
+25-Oct-21,2021,Cessna 208 Caravan I,Cessna,PK-SNN,Smart Cakrawala Aviation,1,Ilaga Airport (ILA),w/o,Miscellaneous,2,2
+10-Dec-21,2021,Swearingen SA-226AT Merlin IV,Swearingen,N54GP,Castle Aviation,1,"0,6 km SW of Manchester-Boston Regional Airport, NH (MHT/KMHT)",w/o,Pilot Error,1,1
+30-Mar-22,2022,Cessna 208 Caravan I,Cessna,D-FLIC,"Skydive Costa d'Argento, lsf Gladwings",1,Säntis Mountain,w/o,Pilot Error,1,1
+13-Apr-22,2022,Cessna 208B Grand Caravan,Cessna,N928JP,Gem Air,1,"0,7 km NE of Burley Municipal Airport, ID (BYI)",w/o,Pilot Error,1,1
+22-Apr-22,2022,Antonov An-26B-100,Antonov,UR-UZB,Constanta Airlines,1,Mykhailivka,w/o,Pilot Error,3,3
+3-Jun-22,2022,Cessna 208B Supervan 900,Cessna,N7581F,GoJump Oceanside,1,"0,5 km E of Oceanside Municipal Airport, CA (OCN/KOKB)",sub,Pilot Error,2,2
+29-Jul-22,2022,CASA C-212 Aviocar 200,CASA,N497CA,Rampart Aviation,1,"Raleigh/Durham Airport, NC (RDU)",sub,Miscellaneous,2,2
+10-Sep-22,2022,Cessna 208B Grand Caravan,Cessna,PT-MES,Piquiatuba Táxi Aéreo,1,"near Porto Trombetas, PA",w/o,Mechanical Failure,5,5
+20-Sep-22,2022,British Aerospace 3201 Jetstream 32EP,BAE,OB-2152,SAETA Peru,1,El Estrecho Airport (SPEE),sub,Pilot Error,17,17
+2-Jan-23,2023,Embraer EMB-505 Phenom 300,Embraer,N555NR,Eagle Jet 300 LLC,1,"Provo Airport, UT (PVU)",w/o,Pilot Error,4,4
+2-Feb-23,2023,Cessna 208B Grand Caravan,Cessna,5Y-BMZ,Unknown,1,Nasir Airport (HSNA),w/o,Undetermined,0,1
+3-Mar-23,2023,Bombardier BD-100-1A10 Challenger 300,Bombardier,N300ER,Conexon LLC opf AirShare,1,"near Windsor Locks, CT",min,Mechanical Failure,5,5
+14-Aug-23,2023,Boeing 787-9 Dreamliner,Boeing,CC-BGI,LATAM Airlines Chile,1,"N of Panama, over Caribbean Sea",non,Miscellaneous,0,1
+15-Oct-23,2023,Cessna 208 Caravan I,Cessna,F-HSLE,Skydive Center à Tallard,1,near Gap-Tallard Airfield (GAT/LFNA),w/o,Miscellaneous,1,1
+23-Dec-24,2024,Airbus A220-300,Airbus,HB-JCD,Swiss International Air Lines,1,NE of Graz,min,Mechanical Failure,79,79
+25-Nov-24,2024,Boeing 737-476 (SF),Boeing,EC-MFE,"Swiftair, opf DHL",1,"c. 1,3 km N of Vilnius International Airport (VNO/EYVI)",w/o,Pilot Error,4,4
+29-Oct-24,2024,Airbus A330-343,Airbus,PK-LEH,"Flynas, opb Lion Air",1,Madinah-Mohammad Bin Abdulaziz Airport (MED/OEMA),non,Miscellaneous,0,1
+13-Oct-24,2024,Antonov An-3T,Antonov,RA-05884,Borus Aircompany,1,"near Olyokminsk Airport (OLZ/UEMO), Republic of Sakha (Yakutia)",sub,Pilot Error,5,5
+7-Oct-24,2024,Beechcraft C99 Commuter,Beechcraft,N130GP,Ameriflight opb UAS Transervices Inc,1,"near Norfolk Regional/Karl Stefan Memorial Field (KOFK), Norfolk, NE",w/o,Undetermined,1,1
+20-Jul-24,2024,Cessna 208B Grand Caravan,Cessna,N1259K,Skydive the Falls,1,"Youngstown, NY",w/o,Undetermined,1,1
+15-Jul-24,2024,Britten-Norman BN-2A Islander,Britten-Norman,YJ-AT2,Air Taxi Vanuatu,1,SE of Port Vila-Bauerfield Airport (VLI),w/o,Pilot Error,5,5
+21-May-24,2024,Boeing 777-312ER,Boeing,9V-SWM,Singapore Airlines,1,"near Kanasoekone, Myaungmya District",min,Turbulence,229,229
+5-Mar-24,2024,Cessna 208B Grand Caravan EX,Cessna,9S-EBT,AB Airlines,1,Katchungu-Tchambogo Airstrip,w/o,Undetermined,2,2
+18-Jan-24,2024,Fokker 50,Fokker,5Y-JWG,Jetways Airlines,1,Ceelbarde Airstrip,w/o,Undetermined,4,4
+14-Jan-24,2024,Ilyushin Il-22M-11RT,Ilyushin,RF-95678,Russian Air Force,1,near Anapa,sub,Miscellaneous,1,1
+2-Jan-21,2021,Beechcraft 200 Super King Air,Beechcraft,N831WP,"Vagus Group, Inc.",0,"White Plains-Westchester County Airport, NY (HPN)",min,Mechanical Failure,0,0
+2-Jan-21,2021,Learjet 31A,Learjet,PP-BBV,Brasil Vida Táxi Aéreo,0,"Diamantina Airport, MG (DTI)",sub,Pilot Error,0,0
+13-Jan-21,2021,Beechcraft 300 Super King Air,Beechcraft,N862UP,Gama Aviation LLC,0,"Myrtle Beach, South Carolina",non,Turbulence,0,0
+17-Jan-21,2021,Boeing 777-31HER,Boeing,A6-EPN,Emirates,0,Nicosia FIR,non,Turbulence,0,0
+19-Jan-21,2021,Avro RJ85,Avro,G-JOTR,Jota Aviation,0,London-Biggin Hill Airport (BQH),sub,Runway,0,0
+19-Jan-21,2021,Boeing 737-4Q8 (SF),Boeing,G-JMCY,West Atlantic UK,0,Exeter Airport (EXT/EGTE),sub,Pilot Error,0,0
+23-Jan-21,2021,Canadair CL-600 Challenger 600,Canadair,N275JP,Global Avionics LLC,0,Los Mochis-Federal Airport (LMM),unk,Maintenance ,0,0
+23-Jan-21,2021,North American Rockwell Sabreliner 60,North,XB-JMR,Aviacion Ejecutiva del Bajio,0,"Rocky Point, Clarendon",sub,Mechanical Failure,0,0
+24-Jan-21,2021,Raytheon Beechjet 400A,Raytheon,N476BJ,Martinair Inc.,0,"Binghamton Airport, NY (BGM)",sub,Runway,0,0
+26-Jan-21,2021,Harbin Y-12E,Harbin,AF-222,Zambian Air Force,0,Mukinge Mission Airstrip,sub,Runway,0,0
+28-Jan-21,2021,Beechcraft B300 King Air 350,Beechcraft,N217US,MM-Air LLC,0,"Davenport Airport, IA (DVN)",sub,Pilot Error,0,0
+29-Jan-21,2021,Beechcraft 100 King Air,Beechcraft,,private,0,"Crooked Tree, Orange Walk",w/o,Miscellaneous,0,0
+1-Feb-21,2021,Boeing 747-8KZF,Boeing,JA13KZ,Nippon Cargo Airlines,0,Tokyo-Narita International Airport (NRT/RJAA),sub,Pilot Error,0,0
+8-Feb-21,2021,Airbus A320-271N,Airbus,N918NK,Spirit Airlines,0,"Fort Lauderdale, Florida",non,Pilot Error,0,0
+8-Feb-21,2021,Embraer EMB-500 Phenom 100,Embraer,9H-FAM,Luxwing,0,Paris-Le Bourget Airport (LBG),sub,Mechanical Failure,0,0
+9-Feb-21,2021,Antonov An-12BK,Antonov,RF-95416,Russian Air Force,0,Iturup Airport (ITU),sub,Miscellaneous,0,0
+10-Feb-21,2021,Airbus A320-214 (WL),Airbus,HZ-FAB,Flyadeal,0,Abha International Airport (OHB),sub,Miscellaneous,0,0
+13-Feb-21,2021,Dassault Falcon 900EX EASy,Dassault,N823RC,Aerospike Iron LLC,0,"San Diego-Montgomery-Gibbs Executive Airport, CA (MYF)",sub,Maintenance ,0,0
+14-Feb-21,2021,de Havilland Canada DHC-6 Twin Otter 300,de Havilland Canada,8Q-RAE,Manta Air,0,Malé-Velana International Airport (MLE),sub,Pilot Error,0,0
+15-Feb-21,2021,de Havilland Canada DHC-6 Twin Otter 300,de Havilland Canada,F-RACA,Armée de l'air et de l'espace,0,Blois-Le-Breuil airfield (LFOQ),sub,Pilot Error,0,0
+18-Feb-21,2021,Learjet 55C,Learjet,N559RA,Royal Air Freight,0,"Jeffersonville-Clark Regional Airport, IN (JVY)",sub,Miscellaneous,0,0
+20-Feb-21,2021,Boeing 737-86N (WL),Boeing,VT-GHE,Air India Express,0,Vijayawada Airport (VGA),sub,ATC/Pilot Miscommunication,0,0
+20-Feb-21,2021,de Havilland Canada DHC-3T Vazar Turbine Otter,de Havilland Canada,C-FFVZ,Wings Over Kississing,0,"Kaskattama Airstrip, MB",sub,Miscellaneous,0,0
+21-Feb-21,2021,Beechcraft 200 Super King Air,Beechcraft,,private,0,"San Andrés, Petén",w/o,Fire,0,0
+26-Feb-21,2021,Antonov An-2T,Antonov,UP-A0351,Asia Continental Airlines,0,near Boraldai,sub,Mechanical Failure,0,0
+28-Feb-21,2021,Douglas DC-3C,Douglas,HK-2006,ALIANSA Colombia,0,Monfort Airport (MFB),sub,Pilot Error,0,0
+1-Mar-21,2021,ATR 72-500 (72-212A),ATR,7T-VUK,Air Algérie,0,Ghardaïa-Noumérat Airport (GHA),unk,Pilot Error,0,0
+4-Mar-21,2021,Fokker 100,Fokker,EP-CFM,Iran Air,0,Isfahan Airport,non,Miscellaneous,0,0
+7-Mar-21,2021,Embraer EMB-120ER Brasilia,Embraer,N233SW,Berry Aviation,0,"Detroit-Willow Run Airport, MI (YIP)",sub,Undetermined,0,0
+10-Mar-21,2021,Cessna 208B Grand Caravan,Cessna,PK-MAD,Mission Aviation Fellowship - MAF,0,Angguruk Airstrip,sub,Runway,0,0
+12-Mar-21,2021,Cessna 208B Grand Caravan,Cessna,N407GV,Grant Aviation,0,"Chevak Airport, AK (VAK)",sub,Miscellaneous,0,0
+15-Mar-21,2021,Boeing 777-223ER,Boeing,N789AN,American Airlines,0,"Fort Worth, Texas",non,Miscellaneous,0,0
+16-Mar-21,2021,Bombardier CRJ-701ER,Bombardier,N706SK,Skywest Airlines,0,"Los Angeles International Airport, CA (LAX/KLAX)",non,Maintenance ,0,0
+18-Mar-21,2021,Airbus A320-232,Airbus,XA-VAZ,Viva Aerobus,0,Puerto Vallarta-Gustavo D. Ordaz Airport (PVR),sub,Maintenance ,0,0
+19-Mar-21,2021,Antonov An-2T,Antonov,YV3312,Venezuela Flight Canaima,0,Kapaure,sub,Maintenance ,0,0
+20-Mar-21,2021,Boeing 737-4Y0,Boeing,PK-YSF,Trigana Air Service,0,Jakarta-Halim Perdana Kusuma Airport (HLP),sub,Mechanical Failure,0,0
+23-Mar-21,2021,Saab 340AF,Saab,SP-KPU,SprintAir,0,Gdansk-Lech Walesa Airport (GDN),sub,Pilot Error,0,0
+25-Mar-21,2021,Embraer,Embraer,,Mauritania Airlines International,0,Nouakchott-Oumtounsy International Airport (NKC),non,Miscellaneous,0,0
+26-Mar-21,2021,Beechcraft B200 Super King Air,Beechcraft,5Y-NJS,West Wind Aviation Ltd.,0,Nairobi,w/o,Mechanical Failure,0,0
+28-Mar-21,2021,Embraer EMB-145LR,Embraer,N650AE,"American Eagle , opb Piedmont Airlines",0,"Charlotte-Douglas International Airport, NC (CLT/KCLT)",non,Turbulence,0,0
+2-Apr-21,2021,Boeing 737-8AS (WL),Boeing,9H-QCJ,Malta Air,0,Malta-Luqa Airport (MLA),min,Pilot Error,0,0
+3-Apr-21,2021,Cessna 208B Grand Caravan,Cessna,N215MC,Everts Air Cargo,0,"Fairbanks International Airport, AK (FAI/PAFA)",sub,Mechanical Failure,0,0
+8-Apr-21,2021,Antonov An-2,Antonov,RA-40...,Unknown,0,Omsk,w/o,Miscellaneous,0,0
+9-Apr-21,2021,Boeing C-17A Globemaster III,Boeing,10-0223,United States Air Force - USAF,0,"Charleston AFB, SC (CHS)",sub,Fire,0,0
+14-Apr-21,2021,Cessna 525A CitationJet CJ2+,Cessna,JA001T,private,0,"3,7 km W of Osaka/Yao Airport (RJOY)",sub,Bird Strike,0,0
+15-Apr-21,2021,Learjet 35A,Learjet,N354EF,Med Air Inc,0,"Colorado Springs Airport, CO (COS/KCOS)",sub,Pilot Error,0,0
+16-Apr-21,2021,Beechcraft B99 Airliner,Beechcraft,N991AK,Lake Clark Air,0,"Chignik-Lagoon Airport, AK (KCL)",sub,Pilot Error,0,0
+18-Apr-21,2021,Learjet 25B,Learjet,XB-PIZ,Unknown,0,Toluca-Licenciado Adolfo López Mateos International Airport (TLC),sub,Pilot Error,0,0
+26-Apr-21,2021,Cessna 208B Grand Caravan EX,Cessna,N143CA,Haugland Group Aviation LLC,0,"near Laceyville, PA",sub,Pilot Error,0,0
+1-May-21,2021,Cessna 550 Citation II,Cessna,N803SC,STB Aviation LLC,0,"Charleston Executive Airport, SC (KJZI)",sub,Miscellaneous,0,0
+5-May-21,2021,Gulfstream G150,Gulfstream,N22ST,TLD Aviation I LLC,0,"Ridgeland Airport, SC",sub,Pilot Error,0,0
+6-May-21,2021,Beechcraft B200GT King Air 250,Beechcraft,VT-MPQ,Government of Madhya Pradesh,0,Gwalior Airport (GWL),sub,Pilot Error,0,0
+10-May-21,2021,ATR 72-600 (72-212A),ATR,B-17010,Uni Air,0,Nangang Island-Matsu Nangan Airport (LZN),sub,Pilot Error,0,0
+12-May-21,2021,Boeing 737-8AS (WL),Boeing,EI-EGA,Ryanair,0,Alicante Airport (ALC/LEAL),non,Miscellaneous,0,0
+12-May-21,2021,Swearingen SA226-TC Metro II,Swearingen,N280KL,Key Lime Air,0,"5,9km N of Denver-Centennial Airport, CO (APA)",sub,Pilot Error,0,0
+13-May-21,2021,Cessna 208B Grand Caravan,Cessna,CC-DBB,Skydive Andes,0,Melipilla-Los Cuatro Diablos Airport (SCME),unk,Mechanical Failure,0,0
+19-May-21,2021,Hawker 800,Hawker,XB-R..,private,0,"Sayaxché, Petén",w/o,Miscellaneous,0,0
+20-May-21,2021,IAI 1125 Astra,IAI,N388WA,private,0,"Parque Laguna del Tigre, San Andrés, Petén",sub,Miscellaneous,0,0
+21-May-21,2021,Boeing 737-7H4,Boeing,N289CT,Southwest Airlines,0,"Chicago-O'Hare International Airport, IL (ORD/KORD)",min,Pilot Error,0,0
+21-May-21,2021,Antonov An-2R,Antonov,RA-33373,Utair,0,Laytamak Airstrip,sub,Mechanical Failure,0,0
+28-May-21,2021,Boeing 767-38E,Boeing,HL7528,Asiana Airlines,0,"over Yesan , Chungcheongnam-do",non,Pilot Error,0,0
+28-May-21,2021,Boeing 737-823 (WL),Boeing,N834NN,American Airlines,0,"Dallas/Fort Worth International Airport, TX (DFW/KDFW)",sub,Pilot Error,0,0
+30-May-21,2021,ATR 72-500 (72-212A),ATR,SX-THR,Sky Express,0,Alexandroupolis-Demokritos Airport (AXD),sub,Mechanical Failure,0,0
+2-Jun-21,2021,Beechcraft 1900C,Beechcraft,N219VP,Alpine Air Express,0,"Denver International Airport, CO (DEN/KDEN)",sub,Pilot Error,0,0
+3-Jun-21,2021,Cessna 208B Grand Caravan EX,Cessna,PK-DPT,Dabi Air Nusantara,0,Ilaga Airport (ILA),w/o,Fire,0,0
+4-Jun-21,2021,Honda HA-420 HondaJet,Honda,N10XN,GF Aviation LLC,0,"Atlanta-Cobb County-Mc Collum Field, GA (KRYY)",sub,Maintenance ,0,0
+5-Jun-21,2021,Cessna 208B Supervan 900,Cessna,N103AN,Paraclub Wiener Neustadt,0,Wiener Neustadt West Air Base,sub,Mechanical Failure,0,0
+7-Jun-21,2021,Boeing 737-8AL (WL),Boeing,VT-TGE,Vistara,0,W of Kolkata,non,Turbulence,0,0
+13-Jun-21,2021,Boeing 737-8AS (WL),Boeing,EI-EVE,Ryanair,0,Málaga-Costa del Sol Airport (AGP/LEMG),non,Miscellaneous,0,0
+14-Jun-21,2021,ATR 72-600 (72-212A),ATR,VT-IYX,IndiGo Airlines,0,Hubli Airport (HBX),sub,Pilot Error,0,0
+18-Jun-21,2021,Boeing 787-8 Dreamliner,Boeing,G-ZBJB,British Airways,0,London Heathrow Airport (LHR),sub,Maintenance ,0,0
+21-Jun-21,2021,Rockwell Sabreliner 65,Rockwell,XB-OXV,private,0,within Jesús María Semprún,w/o,Miscellaneous,0,0
+23-Jun-21,2021,Gulfstream G280,Gulfstream,M-ISTY,INEOS Aviation,0,Genève-Cointrin Airport (GVA/LSGG),sub,Pilot Error,0,0
+24-Jun-21,2021,Antonov An-2R,Antonov,RA-01430,private,0,"3,5 km W of Zaboyskiy, Slavyansky district",sub,Pilot Error,0,0
+25-Jun-21,2021,Airbus A321-231,Airbus,N926UW,American Airlines,0,"New Orleans, Louisiana",non,Turbulence,0,0
+25-Jun-21,2021,Shorts 360-300,Short,N970AA,Air Cargo Carriers,0,"Las Vegas-McCarran International Airport, NV (LAS)",sub,Pilot Error,0,0
+25-Jun-21,2021,Cessna 208B Supervan 900,Cessna,PH-FST,Skydive Teuge,0,2 km W of Teuge Airport,sub,Maintenance ,0,0
+29-Jun-21,2021,Airbus A350-941,Airbus,F-HTYH,Air France,0,Paris-Charles de Gaulle Airport (CDG/LFPG),non,Miscellaneous,0,0
+1-Jul-21,2021,Convair CV-580 Airtanker,Convair,C-FKFL,Conair,0,"Penticton Airport, BC (YYF)",sub,Pilot Error,0,0
+1-Jul-21,2021,Convair CV-580 Airtanker,Convair,C-FHKF,Conair,0,"Penticton Airport, BC (YYF)",min,Pilot Error,0,0
+2-Jul-21,2021,Boeing 737-275C Adv.,Boeing,N810TA,Transair (Cargo),0,"9 km WSW off Honolulu-Daniel K. Inouye International Airport, HI (HNL)",w/o,Pilot Error,0,0
+2-Jul-21,2021,Cessna 750 Citation X,Cessna,SX-ECI,Hellenic CAA,0,Paphos International Airport (PFO/LCPH),sub,Mechanical Failure,0,0
+4-Jul-21,2021,Airbus A321-231,Airbus,N156AN,American Airlines,0,"Miami, Florida",non,Turbulence,0,0
+4-Jul-21,2021,Antonov An-2R,Antonov,UP-A0135,ELISA,0,"12 km from Karaultobe, Kyzylorda",sub,Mechanical Failure,0,0
+6-Jul-21,2021,ATR 42-320,ATR,C-GLDE,Transwest Air,0,"120 nm from Saskatoon, SK",non,Turbulence,0,0
+7-Jul-21,2021,Cessna 208B Grand Caravan,Cessna,,Ryan Air,0,"near Aniak Airport, AK (ANI)",non,Miscellaneous,0,0
+11-Jul-21,2021,Airbus A320-214,Airbus,D-AICP,Condor Flugdienst,0,Kavala-Megas Alexandros Airport (KVA),sub,Maintenance ,0,0
+11-Jul-21,2021,de Havilland Canada DHC-3T Vazar Turbine Otter,de Havilland Canada,C-FLLL,Northwestern Air,0,"31,5 km ENE of Fort Smith, NT",sub,Undetermined,0,0
+11-Jul-21,2021,Cessna 208 Caravan I,Cessna,C-GUAY,Air Tunilik,0,"Rex North Mining Camp, QC",sub,Mechanical Failure,0,0
+14-Jul-21,2021,Cessna 208B Grand Caravan EX,Cessna,8R-ABK,Jags Aviation,0,Eteringbang Airport (SYET),sub,Runway,0,0
+15-Jul-21,2021,de Havilland Canada DHC-3T Vazar Turbine Otter,de Havilland Canada,C-GUTW,Harbour Air,0,"Ganges Harbor Airport, BC (YGG)",sub,Miscellaneous,0,0
+15-Jul-21,2021,Cessna 208 Caravan I,Cessna,C-GIGO,Seair Seaplanes,0,"Ganges Harbor Airport, BC (YGG)",sub,Miscellaneous,0,0
+16-Jul-21,2021,Antonov An-28,Antonov,RA-28728,SiLA - Siberian Light Aviation,0,52 km SE of Kedrovo,sub,Pilot Error,0,0
+17-Jul-21,2021,Cessna 208B Supervan 900,Cessna,G-OJMP,GoSkydive,0,Old Sarum Airfield,sub,Pilot Error,0,0
+18-Jul-21,2021,ATR 72-500 (72-212A),ATR,EC-MSN,"Air Europa Express, opb Aeronova",0,Madrid-Barajas Adolfo Suárez Airport (MAD),sub,Miscellaneous,0,0
+20-Jul-21,2021,British Aerospace BAe-125-700A,BAE,N611MC,private,0,"Jesús María Semprún, Zulia",w/o,Miscellaneous,0,0
+21-Jul-21,2021,Cessna 560XL Citation Excel,Cessna,N46CF,PV Transport Inc,0,"Reading Regional Airport/Spaatz Field, PA (RDG)",sub,Pilot Error,0,0
+21-Jul-21,2021,de Havilland Canada DHC-8-106,de Havilland Canada,5Y-GRS,Skyward Express,0,Burahache Airstrip,sub,Mechanical Failure,0,0
+22-Jul-21,2021,Airbus A321-211,Airbus,N376DN,Delta Air Lines,0,"Detroit-Metropolitan Wayne County Airport, MI (DTW/KDTW)",non,Miscellaneous,0,0
+25-Jul-21,2021,Boeing 737-8JP (WL),Boeing,SE-RPE,Norwegian Air Sweden,0,near Nice Airport,non,Miscellaneous,0,0
+27-Jul-21,2021,Cessna 208B Grand Caravan,Cessna,ET-AMI,"Abyssinian Flight Services, opf UNWorld Food Programme",0,near Kombolcha,w/o,Undetermined,0,0
+31-Jul-21,2021,Boeing 737-8AS (WL),Boeing,EI-EPC,Ryanair,0,near Barcelona-El Prat Josep Tarradellas Airport (BCN/LEBL),non,Pilot Error,0,0
+3-Aug-21,2021,Airbus A300B4-622R (F),Airbus,D-AEAE,European Air Transport,0,Lagos-Murtala Muhammed International Airport (LOS),sub,Mechanical Failure,0,0
+9-Aug-21,2021,Gulfstream American G-1159A Gulfstream III,Gulfstream,XB-OZA,private,0,within Jesús María Semprún,w/o,Miscellaneous,0,0
+11-Aug-21,2021,McDonnell Douglas MD-11F,Boeing,N296UP,United Parcel Service - UPS,0,"Phoenix-Sky Harbor International Airport, AZ (PHX)",sub,Pilot Error,0,0
+12-Aug-21,2021,Shijiazhuang Y-5B(D),Shijiazhuang,B-8440,Northeast General Aviation Co.,0,"Nengbei Farm, Heilongjiang Province",w/o,Pilot Error,0,0
+14-Aug-21,2021,Britten-Norman BN-2A-III-2 Trislander,Britten-Norman,8R-GRE,Roraima Airways,0,7 nm S of Georgetown International Airport (OGL),min,Maintenance ,0,0
+14-Aug-21,2021,Bombardier DHC-8-402Q Dash 8,Bombardier,9S-AAN,Congo Airways,0,Lubumbashi International Airport (FBM/FZQA),min,ATC/Pilot Miscommunication,0,0
+16-Aug-21,2021,Cessna 208B Grand Caravan,Cessna,N97HA,Wright Air Service,0,"near Fairbanks, AK",sub,Pilot Error,0,0
+21-Aug-21,2021,Airbus A319-132,Airbus,N806AW,American Airlines,0,"Chicago-O'Hare International Airport, IL (ORD/KORD)",non,Turbulence,0,0
+21-Aug-21,2021,de Havilland Canada DHC-3T Turbine Otter,de Havilland Canada,N560TR,Brooks Range Aviation,0,"near Bethel, AK",sub,Mechanical Failure,0,0
+21-Aug-21,2021,Gulfstream G-IV,Gulfstream,N277GM,SN 1124 LLC,0,"Fort Lauderdale-Executive Airport, FL (FXE)",sub,Pilot Error,0,0
+23-Aug-21,2021,Boeing 737-990ER,Boeing,N479AS,Alaska Airlines,0,"Seattle/Tacoma International Airport, WA (SEA/KSEA)",non,Miscellaneous,0,0
+24-Aug-21,2021,Cirrus SF50 Vision Jet,Cirrus,N1GG,N1GG LLC,0,"Lansing-Capital Region International Airport, MI (LAN)",w/o,Mechanical Failure,0,0
+25-Aug-21,2021,Beechcraft 1900D,Beechcraft,C-GDSG,SkyJet,0,"Chevery Airport, QC (YHR/CYHR)",sub,Mechanical Failure,0,0
+26-Aug-21,2021,Embraer EMB-505 Phenom 300,Embraer,N413N,Nicholas Services LLC,0,"Elk River, NC (NC06)",sub,Pilot Error,0,0
+27-Aug-21,2021,Bombardier CRJ-900LR,Bombardier,C-FOJZ,Air Canada,0,"Vancouver International Airport, BC (YVR/CYVR)",min,Undetermined,0,0
+1-Sep-21,2021,Boeing 767-332ER (WL),Boeing,N196DN,Delta Air Lines,0,"Seattle/Tacoma International Airport, WA (SEA/KSEA)",non,Maintenance ,0,0
+3-Sep-21,2021,Raytheon 390 Premier I,Raytheon,N351CW,PB Air LLC,0,"Naples Airport, FL (APF)",sub,Undetermined,0,0
+4-Sep-21,2021,ATR 72-600 (72-212A),ATR,VT-IYM,IndiGo Airlines,0,en route Tiruchirappalli-Bengaluru,non,Miscellaneous,0,0
+4-Sep-21,2021,Cessna 560XL Citation Excel,Cessna,N827JS,Fly Exclusive,0,"near Salt Lake City International Airport, UT (SLC)",sub,Bird Strike,0,0
+12-Sep-21,2021,British Aerospace BAe-125,BAE,,private,0,Río Catatumbo,w/o,Miscellaneous,0,0
+14-Sep-21,2021,Raytheon Beechjet 400A,Raytheon,N100FN,Meander Air II LLC,0,"between Youngstown, OH and Charleston, SC",sub,Mechanical Failure,0,0
+15-Sep-21,2021,Airbus A320-214,Airbus,OE-LBY,Austrian Airlines,0,Berlin Brandenburg-Willy Brandt Airport (BER),sub,Undetermined,0,0
+17-Sep-21,2021,Canadair CRJ-200LR,Canadair,N444ZW,"United Express, opb Air Wisconsin",0,"Asheville Regional Airport, NC (AVL)",sub,Miscellaneous,0,0
+20-Sep-21,2021,Learjet 35A,Learjet,ZS-SFV,Impuma Group,0,Lanseria International Airport (HLA),sub,Pilot Error,0,0
+23-Sep-21,2021,Airbus A321-271N,Airbus,N208HA,Hawaiian Airlines,0,"Honolulu-Daniel K. Inouye International Airport, HI (HNL)",sub,Pilot Error,0,0
+25-Sep-21,2021,Cessna 208B Supervan 900,Cessna,OO-FFB,Paracentrum Vlaanderen,0,Moorsele Airfield (EBMO),sub,Pilot Error,0,0
+27-Sep-21,2021,Saab 340B,Saab,UR-ALG,"STP Airways, lsf AeroJet",0,São Tomé Island Airport (TMS/FPST),sub,Miscellaneous,0,0
+27-Sep-21,2021,Boeing 757-224 (WL),Boeing,N12125,United Airlines,0,"Newark-Liberty International Airport, NJ (EWR)",sub,Pilot Error,0,0
+28-Sep-21,2021,IAI 1124A Westwind II,IAI,PR-BVB,Brasil Vida Táxi Aéreo,0,"Goiânia-Santa Genoveva Airport, GO (GYN)",sub,Pilot Error,0,0
+29-Sep-21,2021,Britten-Norman BN-2B-26 Islander,Britten-Norman,J8-VBI,SVG Air,0,Montserrat-John A. Osborne Airport (MNI),sub,Mechanical Failure,0,0
+1-Oct-21,2021,Embraer ERJ-175LR,Embraer,N730YX,"United Express, opb Republic Airlines",0,"Chicago-O'Hare International Airport, IL (ORD/KORD)",sub,ATC/Pilot Miscommunication,0,0
+1-Oct-21,2021,Embraer ERJ-175LR,Embraer,N142SY,"United Express, opb SkyWest Airlines",0,"Chicago-O'Hare International Airport, IL (ORD/KORD)",min,ATC/Pilot Miscommunication,0,0
+8-Oct-21,2021,Boeing 737-8H4 (WL),Boeing,N8642E,Southwest Airlines,0,"Lexington, Virginia",non,Turbulence,0,0
+8-Oct-21,2021,Learjet 35A,Learjet,unreg.,private,0,"near Little Belize, Corozal",w/o,Miscellaneous,0,0
+13-Oct-21,2021,Bombardier BD-700-1A10 Global 6000,Bombardier,9H-VJM,VistaJet,0,Johannesburg-O.R. Tambo International Airport (JNB),sub,Pilot Error,0,0
+14-Oct-21,2021,Antonov An-2T,Antonov,N857PF,private,0,"near Wilton-Alta Mesa Airpark, CA",w/o,Mechanical Failure,0,0
+18-Oct-21,2021,Beechcraft 200 Super King Air,Beechcraft,N996LM,Lowcountry Aviation Co Brokerage LLC,0,"Mount Pleasant Regional-Faison field, SC (KLRO)",sub,Pilot Error,0,0
+19-Oct-21,2021,Antonov An-2R,Antonov,RA-33350,AeroUral,0,"near Alapayevsk, Sverdlovsk region",sub,Mechanical Failure,0,0
+19-Oct-21,2021,Rockwell Sabreliner 60,Rockwell,XB-ETV,private,0,Jacmel Airport (JAK),sub,Runway,0,0
+19-Oct-21,2021,McDonnell Douglas MD-87,Boeing,N987AK,987 Investments LLC,0,"Houston Executive Airport, TX (KTME)",w/o,Mechanical Failure ,0,0
+22-Oct-21,2021,Embraer EMB-500 Phenom 100,Embraer,N925DR,Scout About LLC,0,"Orlando International Airport, FL (MCO)",sub,Pilot Error,0,0
+22-Oct-21,2021,Cessna 208B Supervan 900,Cessna,N754KP,Alaska Seaplanes,0,"Juneau International Airport, AK (JNU)",sub,Undetermined,0,0
+23-Oct-21,2021,Embraer ERJ-175LR,Embraer,N252NN,"Envoy Air, opf American Eagle",0,"Miami International Airport, FL (MIA/KMIA)",non,Miscellaneous,0,0
+29-Oct-21,2021,Cessna 208B Grand Caravan,Cessna,PK-RVH,Reven Global Transpor,0,Dagi Baru Airstrip,w/o,Pilot Error,0,0
+30-Oct-21,2021,Beechcraft 200 King Air,Beechcraft,C-GEHS,"PAL Airlines, opf EHS LifeFlight Services",0,"Halifax-Stanfield International Airport, NS (YHZ/CYHZ)",sub,Mechanical Failure ,0,0
+1-Nov-21,2021,de Havilland Canada DHC-6 Twin Otter 300,de Havilland Canada,C-GNPS,Air Tindi,0,"12,4 km NW of Fort Providence, NT",sub,Pilot Error,0,0
+3-Nov-21,2021,Beechcraft Super King Air,Beechcraft,,private,0,western Venezuela,w/o,Undetermined,0,0
+3-Nov-21,2021,Transall C-160NG,Transall,EY-360,Safe Air Company (SAC),0,Dolow Airport,w/o,Fire,0,0
+5-Nov-21,2021,Gulfstream ?,Gulfstream,,private,0,western Venezuela,w/o,Undetermined,0,0
+5-Nov-21,2021,Gulfstream Aerospace G-1159A Gulfstream III,Gulfstream,N42FL,private,0,"near Victoria 3, Retalhuleu",w/o,Miscellaneous,0,0
+6-Nov-21,2021,Antonov An-2R,Antonov,YR-PMW,Asociatia Club Sportiv Skydiving Center,0,Letca Noua Airfield,sub,Mechanical Failure ,0,0
+14-Nov-21,2021,IAI 1125 Astra SP,IAI,N771DX,EMD Astra Holdings LLC,0,"Las Vegas-North Air Terminal, NV (VGT)",sub,Pilot Error,0,0
+21-Nov-21,2021,Bombardier BD-100-1A10 Challenger 350,Bombardier,N743QS,NetJets,0,50 km N of Turks and Caicos Islands,non,Turbulence,0,0
+25-Nov-21,2021,Airbus A320-251N,Airbus,PR-YRH,Azul Linhas Aéreas Brasileiras,0,"Cuiabá-Marechal Rondon International Airport, MT (CGB/SBCY)",non,Miscellaneous,0,0
+28-Nov-21,2021,Beechcraft 200 Super King Air,Beechcraft,N71VT,Western Wings Corp,0,"Eugene Airport, OR (EUG)",sub,Pilot Error,0,0
+29-Nov-21,2021,Boeing 747-4B5F,Boeing,N705CK,Kalitta Air,0,"between Santiago and Miami, FL",sub,Mechanical Failure ,0,0
+1-Dec-21,2021,Cessna 510 Citation Mustang,Cessna,N81CB,private,0,"Lake Havasu City Airport, AZ (KHII)",sub,Pilot Error,0,0
+1-Dec-21,2021,Cessna 208 Caravan I,Cessna,N9602F,Lake & Peninsula Airlines,0,"W of Port Alsworth Airport, AK (PTA)",sub,Pilot Error,0,0
+5-Dec-21,2021,Airbus A350-941,Airbus,F-HNET,Air Caraïbes Atlantique,0,near Cayenne,non,Turbulence,0,0
+5-Dec-21,2021,Cessna 560XL Citation Excel,Cessna,G-IPAX,Air Charter Scotland Ltd.,0,Kemi/Tornio Airport (KEM),sub,Pilot Error,0,0
+11-Dec-21,2021,Boeing 737-8AS (WL),Boeing,EI-EMM,Ryanair,0,Dublin Airport (DUB/EIDW),non,Miscellaneous,0,0
+12-Dec-21,2021,Airbus A320-251N,Airbus,N307FR,Frontier Airlines,0,"Las Vegas-McCarran International Airport, NV (LAS)",sub,Pilot Error,0,0
+14-Dec-21,2021,Embraer EMB-500 Phenom 100,Embraer,PR-TDV,Dimed SA Distribuidora da Medicamentos,0,"Santa Rosa Airport, RS (SRA)",sub,Undetermined,0,0
+17-Dec-21,2021,Beechcraft B200 Super King Air,Beechcraft,C-FSKO,Keewatin Air,0,"Sanikiluaq Airport, NU (YSK)",sub,Pilot Error,0,0
+20-Dec-21,2021,Cessna 525 CitationJet,Cessna,N287CB,Cottingham & Butler Insurance Services,0,"Dubuque, IA",sub,Bird Strike,0,0
+21-Dec-21,2021,Airbus A321-271NX,Airbus,N2084J,JetBlue Airways,0,"New York-John F. Kennedy International Airport, NY (JFK/KJFK)",non,Miscellaneous,0,0
+21-Dec-21,2021,Learjet 35A,Learjet,XA-VDK,private,0,Cancún Airport (CUN/MMUN),w/o,Miscellaneous,0,0
+25-Dec-21,2021,Airbus A330-343,Airbus,C-GFAF,Air Canada,0,"Montreal-Pierre Elliott Trudeau International Airport, QC (YUL)",sub,Mechanical Failure ,0,0
+28-Dec-21,2021,Beechcraft A100 King Air,Beechcraft,N93GT,Sky-Bound Aviation LLC,0,"Helena-Thompson-Robbins Airport, AR (HEE)",sub,Miscellaneous,0,0
+28-Dec-21,2021,Cessna 208B Grand Caravan,Cessna,Z-HAC,Halsted Aviation Corporation (HAC),0,Bazaruto Island Airport (BZB),w/o,Miscellaneous,0,0
+30-Dec-21,2021,Embraer ERJ-170SE,Embraer,N633RW,"United Express, opb Republic Airlines",0,"Newark-Liberty International Airport, NJ (EWR)",sub,Miscellaneous,0,0
+30-Dec-21,2021,Airbus A330-303,Airbus,TC-JOK,THY Turkish Airlines,0,"Newark-Liberty International Airport, NJ (EWR)",min,Miscellaneous,0,0
+30-Dec-21,2021,Beechcraft 300 Super King Air,Beechcraft,TG-MAM,"Empresas Ginro, S.A.",0,Rio Dulce-Las Vegas Airport (LCF),w/o,Turbulence,0,0
+31-Dec-21,2021,IRMA/Pilatus Britten-Norman BN-2T Islander,Pilatus,,Royal Moroccan Gendarmerie,0,off N'Tireft,unk,Pilot Error,0,0
+3-Jan-22,2022,Beechcraft 200 King Air,Beechcraft,G-GHSV,Lyddair Opf. Atlantic Bridge Aviation Ltd,0,Exeter Airport (EXT/EGTE),min,Mechanical Failure,0,0
+3-Jan-22,2022,British Aerospace 4121 Jetstream 41,BAE,ZS-NRJ,SA Airlink,0,near Venetia Mine Airport,sub,Bird Strike,0,0
+4-Jan-22,2022,British Aerospace 3101 Jetstream 31,BAE,HR-AYY,LANHSA - Línea Aérea Nacional de Honduras S.A,0,Roatán-Juan Manuel Gálvez International Airport (RTB),sub,Mechanical Failure,0,0
+5-Jan-22,2022,Boeing 737-4H6,Boeing,EP-CAP,Caspian Airlines,0,Isfahan-Shahid Beheshti Airport (IFN),sub,Mechanical Failure,0,0
+8-Jan-22,2022,Tupolev Tu-204-100C,Tupolev,RA-64032,"Cainiao, opb Aviastar-TU",0,Hangzhou Xiaoshan International Airport (HGH),w/o,Fire,0,0
+12-Jan-22,2022,Beechcraft 200 Super King Air,Beechcraft,,private,0,"Machakilha, Toledo District, Grahem Creek area",w/o,Fire,0,0
+16-Jan-22,2022,Airbus A320-214 (WL),Airbus,JA24MC,Star Flyer,0,near Okayama City,non,Turbulence,0,0
+19-Jan-22,2022,Cessna 208B Grand Caravan EX,Cessna,YV3033,Mahan Air,0,"near Vakilabad, Arzuiyeh",sub,Miscellaneous,0,0
+22-Jan-22,2022,Airbus A320-232,Airbus,N760JB,JetBlue Airways,0,"Hayden-Yampa Valley Airport, CO (HDN)",sub,Pilot Error,0,0
+27-Jan-22,2022,Bombardier CL-600-2B16 Challenger 604,Bombardier,2-SLOW,Volare Aviation,0,Heraklion-N. Kazantzakis Airport (HER/LGIR),sub,Mechanical Failure,0,0
+31-Jan-22,2022,Bombardier CL-600-2B16 Challenger 604,Bombardier,N999PX,Lima Delta Co Trustee,0,London-Stansted Airport (STN),sub,Miscellaneous,0,0
+31-Jan-22,2022,Beechcraft B300 King Air 350,Beechcraft,C-GEAS,"Air Tindi, opf Royal Canadian Air Force - RCAF",0,"Thunder Bay Airport, ON (YQT)",sub,Miscellaneous,0,0
+2-Feb-22,2022,Hawker 1000,Hawker,N207K,Skyview LLC,0,"Islip-Long Island MacArthur Airport, NY (ISP)",sub,Mechanical Failure,0,0
+5-Feb-22,2022,Cessna 208B Grand Caravan,Cessna,5H-TAZ,Care Aviation,0,New Fangak Airstrip,sub,Undetermined,0,0
+7-Feb-22,2022,Embraer ERJ-190-100LR,Embraer,OH-LKK,Finnair,0,København-Kastrup Airport (CPH),sub,Miscellaneous,0,0
+8-Feb-22,2022,Antonov An-26,Antonov,SP-402,South Sudanese Air Force,0,Agok Airstrip,sub,Runway,0,0
+11-Feb-22,2022,Cessna 501 Citation I/SP,Cessna,LV-JUO,Aviajet SA,0,"Morón-Ituzaingo Airport, BA",sub,Mechanical Failure,0,0
+14-Feb-22,2022,Let L-410UVP-E3,Let,9S-GFA,Doren Air Congo,0,Bukavu-Kavumu Airport (BKY),w/o,Fire,0,0
+15-Feb-22,2022,ATR 42-500,ATR,JA04JC,Japan Air Commuter,0,55 km NNW of Osaka Airport,non,Turbulence,0,0
+15-Feb-22,2022,Britten-Norman BN-2A-9 Islander,Britten-Norman,N821RR,Air Flamenco,0,Culebra Airport (CPX),sub,Pilot Error,0,0
+16-Feb-22,2022,Swearingen SA226-AT Merlin IV,Swearingen,HK-5225,Colcharter,0,San Andres Island-Gustavo Rojas Pinilla Airport (ADZ),sub,Undetermined,0,0
+18-Feb-22,2022,Embraer EMB-500 Phenom 100E,Embraer,N68NH,Eclipse Transport LLC,0,"Detroit-Coleman A. Young International Airport, MI (DET)",sub,Pilot Error,0,0
+21-Feb-22,2022,de Havilland Canada DHC-3T Texas Turbine Otter,de Havilland Canada,N413JP,Bald Mountain Air Services,0,"Umiat Airport, AK (UMT)",sub,Pilot Error,0,0
+21-Feb-22,2022,Raytheon Hawker 800XP,Raytheon,N99AP,Roper Aviation LLC,0,"Aspen-Pitkin County Airport, CO (ASE/KASE)",sub,Pilot Error,0,0
+23-Feb-22,2022,Cessna 208B Grand Caravan,Cessna,5X-ASD,Air Serv Limited,0,Bor Airport (HSBR),sub,Miscellaneous,0,0
+23-Feb-22,2022,Antonov An-2,Antonov,,Taraz Zhana Alem,0,10 km S of Aralsk,w/o,Miscellaneous,0,0
+24-Feb-22,2022,Antonov An-22A,Antonov,UR-09307,Antonov Airlines,0,Kyiv-Gostomel Airport (GML),sub,Miscellaneous,0,0
+24-Feb-22,2022,Antonov An-26-100,Antonov,UR-13395,Antonov Airlines,0,Kyiv-Gostomel Airport (GML),w/o,Miscellaneous,0,0
+24-Feb-22,2022,Antonov An-74T,Antonov,UR-74010,Antonov Airlines,0,Kyiv-Gostomel Airport (GML),w/o,Miscellaneous,0,0
+24-Feb-22,2022,Cessna 208B Supervan 900,Cessna,N10JA,GoJump Oceanside,0,"0,4 km NE of Oceanside Municipal Airport, CA (OCN/KOKB)",sub,Pilot Error,0,0
+27-Feb-22,2022,Antonov An-124-100,Antonov,UR-82009,Antonov Airlines,0,Kyiv-Gostomel Airport (GML),sub,Miscellaneous,0,0
+27-Feb-22,2022,Antonov An-225,Antonov,UR-82060,Antonov Airlines,0,Kyiv-Gostomel Airport (GML),w/o,Miscellaneous,0,0
+28-Feb-22,2022,Cessna 208B Grand Caravan,Cessna,N108RF,Revolution Flight,0,"Campbellton, TX",sub,Pilot Error,0,0
+28-Feb-22,2022,Embraer ERJ 170-200 LR (ERJ-175LR),Embraer,N402YX,"American Eagle, opb Republic Airlines",0,"Washington-Ronald Reagan National Airport, DC (DCA)",min,Runway,0,0
+28-Feb-22,2022,Cessna 208B Grand Caravan EX,Cessna,PK-FSW,Spirit Avia Sentosa,0,Bilogai/Sugapa Airport (ZGP),sub,Mechanical Failure,0,0
+2-Mar-22,2022,Embraer EMB-500 Phenom 100,Embraer,LV-GQN,Flyzar,0,"Angra dos Reis Airport, RJ (SDAG)",sub,Miscellaneous,0,0
+3-Mar-22,2022,Boeing 737-8AS (WL),Boeing,EI-DHH,Ryanair,0,Ibiza Airport (LEIB),non,Miscellaneous,0,0
+5-Mar-22,2022,Dornier 228-101,Dornier,CG756,Indian Coast Guard,0,Kanpur Air Force Station (VICX),sub,Mechanical Failure,0,0
+6-Mar-22,2022,Beechcraft 200 Super King Air,Beechcraft,N8170J,HLAF AETA LLC,0,"Gulfport-Biloxi International Airport, MS (GPT)",sub,Mechanical Failure,0,0
+7-Mar-22,2022,Cessna 525B CitationJet CJ3,Cessna,N22AU,Ozark Air Services,0,"Baltimore-Martin State Airport, MD (MTN)",sub,Mechanical Failure,0,0
+8-Mar-22,2022,Cessna 208 Caravan I,Cessna,C-GIPR,Bamaji Air,0,"17 km NNW of Sioux Lookout Airport, ON (YXL)",w/o,Undetermined,0,0
+9-Mar-22,2022,Honda HA-420 HondaJet,Honda,N903JT,Jet It LLC,0,"Pittsburgh-Allegheny County Airport, PA (AGC)",sub,Miscellaneous,0,0
+12-Mar-22,2022,Beechcraft 1900D,Beechcraft,HP-1948BT,Bocas Air,0,Panama City Albrook-Marcos A. Gelabert International Airport (PAC),sub,Miscellaneous,0,0
+17-Mar-22,2022,Cessna 208B Super Cargomaster,Cessna,N78SA,Martinaire,0,"Dallas/Fort Worth International Airport, TX (DFW/KDFW)",min,Miscellaneous,0,0
+17-Mar-22,2022,Cessna 208B Super Cargomaster,Cessna,N9469B,Martinaire,0,"Dallas/Fort Worth International Airport, TX (DFW/KDFW)",sub,Pilot Error,0,0
+26-Mar-22,2022,Boeing 767-346ER,Boeing,JA603J,Japan Airlines (JAL),0,90 km E of Nagoya,non,Turbulence,0,0
+29-Mar-22,2022,Beechcraft B200 Super King Air,Beechcraft,N469SL,"Integrated Pain Associates, Pllc",0,"Odessa, Texas",non,Turbulence,0,0
+1-Apr-22,2022,Embraer EMB-110P2 Bandeirante,Embraer,TG-TAN,TAG Airlines,0,Belize City-Philip S.W. Goldson International Airport (BZE),sub,Miscellaneous,0,0
+2-Apr-22,2022,Learjet 75,Learjet,N877W,Georgia Crown Distributing Co.,0,"Morristown Municipal Airport, NJ (MMU)",sub,Pilot Error,0,0
+7-Apr-22,2022,Boeing 757-27A (PCF),Boeing,HP-2010DAE,DHL Aero Expreso,0,San José-Juan Santamaria International Airport (SJO),w/o,Mechanical Failure,0,0
+8-Apr-22,2022,Aero Modifications AMI DC-3-65TP,Aero,HK-5016,ALIANSA Colombia,0,San Felipe Airport,sub,Runway,0,0
+11-Apr-22,2022,Beechcraft A100 King Air,Beechcraft,C-GYQK,Thunder Airlines,0,"Timmins Airport, ON (YTS)",sub,Mechanical Failure,0,0
+13-Apr-22,2022,Gulfstream American G-1159 Gulfstream II B,Gulfstream,N511PK,private,0,within Venezuela,w/o,Miscellaneous,0,0
+13-Apr-22,2022,Basler BT-67 Turbo 67,Basler,PNC0257,Servicio Aéreo de Policia,0,Villavicencio-La Vanguardia Airport (VVC),sub,Pilot Error,0,0
+14-Apr-22,2022,Fairchild SA227-DC Metro 23,Fairchild,N820DC,Denver Air Connection,0,"Denver International Airport, CO (DEN/KDEN)",sub,Mechanical Failure,0,0
+17-Apr-22,2022,Embraer EMB-505 Phenom 300,Embraer,PP-LGD,VOAR Cooperativa,0,"Maraú-Barra Grande Airport, BA (SIRI)",sub,Pilot Error,0,0
+17-Apr-22,2022,Cessna 525B CitationJet CJ3,Cessna,N225SC,GP Aviation LLC,0,"Caldwell Wright Airport, NJ (CDW)",sub,Pilot Error,0,0
+26-Apr-22,2022,Boeing 737-8AS (WL),Boeing,EI-ENK,Ryanair,0,Almería Airport (LEI),non,Miscellaneous,0,0
+30-Apr-22,2022,Beechcraft 99A Airliner,Beechcraft,N699CZ,Freight Runners Express,0,"Milwaukee-General Mitchell Airport (MKE/KMKE), Milwaukee, WI",sub,Mechanical Failure,0,0
+30-Apr-22,2022,Cessna 208B Grand Caravan,Cessna,F-GXMP,Centre Ecole de Parachutisme Sportif de l'Ariège,0,Pamiers/Les Pujols Airport,sub,Pilot Error,0,0
+1-May-22,2022,Boeing 737-8AS (WL),Boeing,VT-SLH,SpiceJet,0,E of Durgapur,unk,Turbulence,0,0
+3-May-22,2022,Shorts 360-300,Short,N744LG,Air Cargo Carriers,0,San Juan-Luis Muñoz Marín International Airport (SJU),sub,Pilot Error,0,0
+6-May-22,2022,Beechcraft 200 Super King Air,Beechcraft,CC-CDY,Sociedad De Transporte Aéreo Movi Air SPA,0,Santiago-Arturo Merino Benitez Airport (SCL),sub,Mechanical Failure,0,0
+6-May-22,2022,Boeing 737-82R (WL),Boeing,YR-BMM,Blue Air,0,Napoli-Capodichino Airport (NAP),sub,Miscellaneous,0,0
+10-May-22,2022,Boeing 737-883 (WL),Boeing,LN-RRH,SAS Scandinavian Airlines,0,between Stavanger and Oslo,non,Miscellaneous,0,0
+12-May-22,2022,Airbus A319-115 (WL),Airbus,B-6425,Tibet Airlines,0,Chongqing Jiangbei International Airport (CKG/ZUCK),w/o,Pilot Error,0,0
+20-May-22,2022,Embraer EMB-110P1 Bandeirante,Embraer,PT-SHN,Sales Taxi Aéreo,0,"Eldorado do Sul, RS",sub,Mechanical Failure,0,0
+21-May-22,2022,Beechcraft B300 King Air 350C,Beechcraft,N98FM,Textron Aviation,0,"Fort Stockton-Pecos County Airport (FST/KFST), Fort Stockton, TX",sub,Pilot Error,0,0
+21-May-22,2022,Boeing 737-7H4 (WL),Boeing,N256WN,Southwest Airlines,0,"Tacoma, Washington",non,Undetermined,0,0
+24-May-22,2022,de Havilland Canada DHC-3T Turbine Otter,de Havilland Canada,N703TH,Yakutat Coastal Airlines,0,"near Dry Bay Airport, AK",sub,Pilot Error,0,0
+25-May-22,2022,Airbus A320-232,Airbus,N483UA,United Airlines,0,"Springfield, MO",non,Turbulence,0,0
+27-May-22,2022,Boeing 787-9 Dreamliner,Boeing,A6-BLF,Etihad Airways,0,between Abu Dhabi and Lahore,unk,Turbulence,0,0
+28-May-22,2022,Beechcraft B200 King Air,Beechcraft,ZS-PTE,Unknown,0,near Lynedoch Private Airfield,sub,Undetermined,0,0
+2-Jun-22,2022,Cessna 525 CitationJet,Cessna,N131PL,Kam Aviation LLC,0,"Natchitoches Regional Airport, LA",sub,Turbulence,0,0
+4-Jun-22,2022,Cessna 208 Caravan I,Cessna,N90JF,Connecticut Parachutists,0,"Ellington Airport, CT (7B9)",sub,Pilot Error,0,0
+7-Jun-22,2022,Shorts SC.7 Skyvan 3-200,Short,N731E,Alaskan Air Charter,0,"Chisana Field, AK (CZN)",sub,Mechanical Failure,0,0
+7-Jun-22,2022,Bombardier BD-100-1A10 Challenger 300,Bombardier,N694PD,Pacific Dental Services,0,"Hawthorne Airport, CA (HHR)",min,Miscellaneous,0,0
+10-Jun-22,2022,Airbus A319,Airbus,,,0,near Düsseldorf,non,Turbulence,0,0
+13-Jun-22,2022,Cessna 550 Citation II,Cessna,N550GX,Northern Meridian LLC,0,"Fargo-Hector International Airport, ND (FAR)",sub,Miscellaneous,0,0
+15-Jun-22,2022,Beechcraft B200 Super King Air,Beechcraft,OO-LET,ASL - Air Service Liege,0,Liège Airport (LGG),sub,Undetermined,0,0
+16-Jun-22,2022,Boeing 737-3M8 (QC),Boeing,9S-ABJ,Gomair,0,Kananga Airport (KGA),sub,Mechanical Failure,0,0
+17-Jun-22,2022,Boeing 777-228ER,Boeing,F-GSPQ,Air France,0,"New York-John F. Kennedy International Airport, NY (JFK)",min,ATC/Pilot Miscommunication,0,0
+17-Jun-22,2022,Airbus A330-202,Airbus,EI-EJL,ITA Airways,0,"New York-John F. Kennedy International Airport, NY (JFK)",min,ATC/Pilot Miscommunication,0,0
+21-Jun-22,2022,McDonnell Douglas MD-82,Boeing,HI1064,RED Air,0,"Miami International Airport, FL (MIA)",w/o,Mechanical Failure,0,0
+22-Jun-22,2022,Antonov An-30M,Antonov,30001,NPP Mir,0,70 km SE of Olenyok Airport (ONK),sub,Mechanical Failure,0,0
+24-Jun-22,2022,Fokker F-27 Friendship 500,Fokker,5Y-CCE,Icon Aviation,0,Juba Airport (JUB),unk,Undetermined,0,0
+25-Jun-22,2022,de Havilland Canada DHC-8-402Q Dash 8,de Havilland Canada,JA854A,"All Nippon Airways - ANA, opb ANA Wings",0,40 km WSW of Tokushima Airport,non,Turbulence,0,0
+26-Jun-22,2022,Cessna 208 Supervan 900,Cessna,N265KP,Alaska Seaplanes,0,"Elfin Cove Seaplane Base, AK (ELV)",sub,Pilot Error,0,0
+1-Jun-22,2022,Antonov An-2R,Antonov,RA-17951,Voskhod LLC,0,near Oymyakon Airfield,sub,Undetermined,0,0
+1-Jul-22,2022,Antonov An-12BK,Antonov,UR-11316,Motor Sich,0,Uzhgorod Airport (UKLU),sub,Pilot Error,0,0
+1-Jul-22,2022,Boeing 737-7H4 (WL),Boeing,N480WN,Southwest Airlines,0,"Santa Ana-John Wayne International Airport, CA (SNA/KSNA)",non,Miscellaneous,0,0
+13-Jul-22,2022,Gulfstream G450,Gulfstream,HZ-A23,Alpha Star Aviation Services,0,Jeddah-King Abdulaziz International Airport (JED),sub,Undetermined,0,0
+13-Jul-22,2022,Cessna 208B Super Cargomaster,Cessna,N877FE,Corporate Air,0,"Salt Lake City International Airport, UT (SLC)",sub,Pilot Error,0,0
+15-Jul-22,2022,Raytheon Beechjet 400A,Raytheon,N400MX,"Aircraft Management Group, Inc",0,"Brunswick-Glynco Jetport, GA (BQK)",sub,Bird Strike,0,0
+16-Jul-22,2022,Boeing 737-81D (WL),Boeing,JA807X,Solaseed Air,0,120 km SW of Naha Airport,non,Turbulence,0,0
+16-Jul-22,2022,Fokker 50,Fokker,5Y-JSN,Icon Aviation,0,Rubkona Airport,sub,Mechanical Failure,0,0
+18-Jul-22,2022,Fokker 50,Fokker,5Y-JXN,Jubba Airways,0,Mogadishu Aden Adde International Airport (MGQ),w/o,Miscellaneous,0,0
+20-Jul-22,2022,Airbus A321-271NX,Airbus,HA-LGA,Wizz Air,0,Budapest Ferenc Liszt International Airport (BUD/LHBP),non,Miscellaneous,0,0
+21-Jul-22,2022,Cessna 680 Citation Sovereign,Cessna,C-GDCP,Anderson Air,0,"Kotzebue-Ralph Wien Memorial Airport, AK (OTZ)",sub,Runway,0,0
+22-Jul-22,2022,Antonov An-2,Antonov,ST-AUD,Crop Protection Company,0,W of Omdurman Al Hara,sub,Undetermined,0,0
+24-Jul-22,2022,Boeing 717-2BD,Boeing,N945AT,Delta Air Lines,0,"Montreal-Pierre Elliott Trudeau International Airport, QC (YUL)",sub,Miscellaneous,0,0
+25-Jul-22,2022,Airbus A320-214,Airbus,N950AV,Avianca,0,Rionegro/Medellín-José María Córdova Airport (MDE/SKRG),non,Miscellaneous,0,0
+28-Jul-22,2022,de Havilland Canada DHC-3T Vazar Turbine Otter,de Havilland Canada,N320KT,Rust's Flying Service,0,"Talkeetna Airport, AK (TKA)",sub,Pilot Error,0,0
+30-Jul-22,2022,Boeing 737-86N (WL),Boeing,HS-DBR,Nok Air,0,Chiang Rai-Mae Fah Luang International Airport (CEI),sub,Pilot Error,0,0
+5-Aug-22,2022,Boeing 777-FDZ,Boeing,A7-BFH,Qatar Airways Cargo,0,"Chicago-O'Hare International Airport, IL (ORD/KORD)",sub,ATC/Pilot Miscommunication,0,0
+6-Aug-22,2022,Boeing 757-251 (WL),Boeing,N540US,Delta Air Lines,0,"Atlanta Hartsfield-Jackson International Airport, GA (ATL/KATL)",sub,Pilot Error,0,0
+7-Aug-22,2022,IAI 1124 Westwind,IAI,PR-OMX,Brasil Vida Táxi Aéreo,0,"Goiânia-Nacional de Aviação Aerodrome, GO (SBNV)",sub,Mechanical Failure,0,0
+15-Aug-22,2022,Cessna 560 Citation Encore,Cessna,N977MR,"Raber Flight Services, LLC",0,"Aspen-Pitkin County Airport, CO (ASE/KASE)",sub,Undetermined,0,0
+17-Aug-22,2022,Antonov An-24B,Antonov,RA-47848,Angara Airlines,0,Ust-Kut Airport (UKX),sub,Pilot Error,0,0
+19-Aug-22,2022,Boeing 737-824 (WL),Boeing,N73270,United Airlines,0,"Pharisburg, OH",non,Turbulence,0,0
+20-Aug-22,2022,Beechcraft 99,Beechcraft,N399TS,PACC Air,0,"Oshkosh-Wittman Field, WI (OSH)",sub,Mechanical Failure,0,0
+29-Aug-22,2022,Boeing 717-2BD,Boeing,N946AT,Delta Air Lines,0,"E of Detroit, MI",non,Turbulence,0,0
+30-Aug-22,2022,Cessna 208B Grand Caravan EX,Cessna,PK-SNW,Smart Cakrawala Aviation,0,Sinak Airport (NKD),sub,Miscellaneous,0,0
+31-Aug-22,2022,Cessna 208B Grand Caravan EX,Cessna,N208JM,Private,0,ca 1 km S of Abu Dhabi-Bateen Airport (AZI),w/o,Pilot Error,0,0
+1-Sep-22,2022,Boeing 737-824 (WL),Boeing,N76529,United Airlines,0,"Denver International Airport, CO (DEN/KDEN)",non,Turbulence,0,0
+2-Sep-22,2022,Antonov An-2R,Antonov,RA-56534,2nd Arkhangelsk United Aviation Division,0,Nes,sub,Undetermined,0,0
+4-Sep-22,2022,Airbus A220-100,Airbus,N113DQ,Delta Air Lines,0,"near New York-La Guardia Airport, NY (LGA/KLGA)",non,Turbulence,0,0
+4-Sep-22,2022,Boeing 777-F1H,Boeing,D-AALU,AeroLogic,0,Frankfurt International Airport (FRA/EDDF),non,Miscellaneous,0,0
+7-Sep-22,2022,Cessna 750 Citation X,Cessna,N15TZ,"BVS, Inc",0,"Phoenix-Mesa Gateway Airport, AZ (AZA)",sub,Pilot Error,0,0
+9-Sep-22,2022,Learjet 36,Learjet,N26FN,Strategic Airborne Operations,0,"San Diego-North Island NAS, CA (NZY)",sub,Pilot Error,0,0
+9-Sep-22,2022,Cirrus SF50 Vision Jet,Cirrus,N77VJ,TAC9 Inc.,0,"10 km SSW of Kissimmee Gateway Airport, FL (ISM)",sub,Pilot Error,0,0
+15-Sep-22,2022,Fairchild SA227-AC Metro III,Fairchild,XA-UMW,Aeronaves TSM,0,near Ramos Arizpe,sub,Mechanical Failure,0,0
+19-Sep-22,2022,Beechcraft 1900C-1,Beechcraft,TN-AIQ,Equaflight Services,0,Pointe-Noire Agostinho-Neto International Airport (PNR),sub,Mechanical Failure,0,0
+20-Sep-22,2022,Dassault Falcon 2000,Dassault,ZS-PKR,Pepkor Group,0,Pietermaritzburg Airport (PZB),sub,Bird Strike,0,0
+20-Sep-22,2022,Cessna 525B CitationJet CJ3,Cessna,N528DV,Pacific Cataract & Laser Institute Inc Pc,0,"Pasco-Tri-Cities Airport, WA (PSC)",w/o,Pilot Error,0,0
+21-Sep-22,2022,Britten Norman BN-2A-8 Islander,Britten,8R-GGT,Jags Aviation,0,Eteringbang Airport (SYET),sub,Miscellaneous,0,0
+21-Sep-22,2022,Rockwell Sabreliner 65,Rockwell,XB-RXG,private,0,within Zulia,w/o,Fire,0,0
+22-Sep-22,2022,Boeing 737-8HC (WL),Boeing,TC-SOG,SunExpress,0,Köln/Bonn-Konrad Adenauer Airport (CGN/EDDK),sub,Miscellaneous,0,0
+22-Sep-22,2022,Antonov An-2R,Antonov,ST-AUE,Crop Protection Company,0,"Yassin, east Darfur",sub,Undetermined,0,0
+24-Sep-22,2022,Boeing 737-436 (SF),Boeing,EC-NLS,"Swiftair, opf West Atlantic (UK)",0,Montpellier-Méditerranée Airport (MPL),sub,Pilot Error,0,0
+25-Sep-22,2022,Boeing 737-8V3 (WL),Boeing,HP-1539CMP,Copa Airlines,0,Panama City-Tocumen International Airport (PTY),sub,Miscellaneous,0,0
+25-Sep-22,2022,Fokker 50,Fokker,5Y-FAI,Freedom Airline Express,0,Nairobi-Jomo Kenyatta International Airport (NBO/HKJK),sub,Miscellaneous,0,0
+27-Sep-22,2022,Cessna 550 Citation II,Cessna,N409ST,ABS Equipment Leasing,0,"Waco-McGregor Executive Airport, TX (KPWG)",sub,Mechanical Failure,0,0
+28-Sep-22,2022,Boeing 757-256 (WL),Boeing,TF-FIK,Icelandair Flugfélag Islands,0,London-Heathrow Airport (LHR),sub,Miscellaneous,0,0
+28-Sep-22,2022,Boeing 777-3B5ER,Boeing,HL7782,Korean Air,0,London-Heathrow Airport (LHR),sub,Miscellaneous,0,0
+29-Sep-22,2022,Boeing 737-7CT (WL),Boeing,N7881A,Southwest Airlines,0,"Denver International Airport, CO (DEN/KDEN)",non,Turbulence,0,0
+1-Oct-22,2022,Boeing 737-8GJ (WL),Boeing,F-GZHA,Transavia France,0,Nantes Atlantique Airport (NTE),sub,Pilot Error,0,0
+3-Oct-22,2022,Boeing 737-8Q3 (WL),Boeing,JA07RK,Japan Transocean Air,0,near Miho Airport,non,Turbulence,0,0
+3-Oct-22,2022,Embraer EMB-545 Legacy 450,Embraer,N179SP,Partee Aviation LLC,0,"Houston-William P. Hobby Airport, TX (HOU)",sub,Mechanical Failure,0,0
+3-Oct-22,2022,Britten-Norman BN-2A-21 Islander,Britten-Norman,VH-WQA,Torres Strait Air,0,"Moa Island, Torres Strait",sub,Pilot Error,0,0
+5-Oct-22,2022,ATR 42-500,ATR,SX-EIT,Sky Express,0,Athens-Elefthérios Venizélos International Airport (ATH/LGAV),sub,Miscellaneous,0,0
+12-Oct-22,2022,Honda HA-420 HondaJet,Honda,N704JT,Jupiter Aviation LLC,0,"West Michigan Regional Airport (BIV/KBIV), Holland, MI",sub,Pilot Error,0,0
+13-Oct-22,2022,de Havilland Canada DHC-3T Vazar Turbine Otter,de Havilland Canada,C-FDDX,True North Airways,0,"Lac PLuto, QC",w/o,Pilot Error,0,0
+13-Oct-22,2022,Cessna 208B Grand Caravan,Cessna,OB-2228,SAETA Peru,0,near Jeberos,w/o,Undetermined,0,0
+15-Oct-22,2022,Boeing KC-46A Pegasus,Boeing,15-46069,"USAF, 305th AMW",0,"~172 km ESE of St Lunaire-Griquet, NL, Canada",sub,Mechanical Failure,0,0
+18-Oct-22,2022,Beechcraft 99 Airliner,Beechcraft,C6-OFM,Flamingo Air Charter,0,Black Point Airstrip (MYEB),sub,Mechanical Failure,0,0
+19-Oct-22,2022,de Havilland Canada DHC-8-314 Dash 8,de Havilland Canada,C-GJYZ,Perimeter Aviation,0,"Sandy Lake Airport, ON (ZSJ)",sub,Pilot Error,0,0
+22-Oct-22,2022,Boeing 737-8AS (WL),Boeing,EI-EKJ,Ryanair,0,Agadir-Al Massira International Airport (AGA/GMAA),non,Miscellaneous,0,0
+23-Oct-22,2022,Airbus A330-322,Airbus,HL7525,Korean Air,0,Mactan-Cebu International Airport (CEB),sub,Mechanical Failure,0,0
+25-Oct-22,2022,Cessna 208B Grand Caravan,Cessna,PK-RVA,Reven Global Transpor,0,Ilaga Airport (ILA/WABL),sub,Undetermined,0,0
+28-Oct-22,2022,Embraer EMB-110C Bandeirante,Embraer,FAU-583,Fuerza Aérea Uruguaya - FAU,0,Montevideo-Carrasco Airport (MVD),sub,Mechanical Failure,0,0
+2-Nov-22,2022,Airbus A319-132,Airbus,N519NK,Spirit Airlines,0,"near New Orleans, LA",non,Pilot Error,0,0
+3-Nov-22,2022,Eclipse 550,Eclipse,N150NE,Elite Flight Travel,0,"Mesa-Falcon Field, AZ (MSC)",sub,Maintenance ,0,0
+7-Nov-22,2022,ATR 72-600 (72-212A),ATR,JA06JC,Japan Air Commuter,0,Kagoshima Airport (KOJ/RJFK),non,Miscellaneous,0,0
+9-Nov-22,2022,Boeing 737-7H4 (WL),Boeing,N963WN,Southwest Airlines,0,"Chicago-O'Hare International Airport, IL (ORD/KORD)",sub,Miscellaneous,0,0
+9-Nov-22,2022,Boeing 737-823 (WL),Boeing,N909NN,American Airlines,0,"Chicago-O'Hare International Airport, IL (ORD/KORD)",sub,Miscellaneous,0,0
+10-Nov-22,2022,Boeing 737 MAX 8,Boeing,N316SE,American Airlines,0,"SE of Miami, FL",non,Turbulence,0,0
+14-Nov-22,2022,Antonov An-2,Antonov,CU-A1885,Risk Mondial Aviation & Recovery,0,"W of Miami-Dade County, FL",sub,Pilot Error,0,0
+15-Nov-22,2022,Honda HA-420 HondaJet,Honda,N789RJ,Andersen Air LLC,0,"Salt Lake City International Airport, UT (SLC)",sub,Pilot Error,0,0
+15-Nov-22,2022,Fairchild SA227-AT Expediter,Fairchild,N247DH,Ameriflight,0,"Pewaukee, WI",sub,Pilot Error,0,0
+17-Nov-22,2022,Embraer EMB-110P1 Bandeirante,Embraer,C6-CAB,LeAir Charter Services,0,Nassau-Lynden Pindling International Airport (NAS/MYNN),min,Mechanical Failure,0,0
+17-Nov-22,2022,Beechcraft 1900D,Beechcraft,VH-NYA,Penjet Pty Ltd,0,"Fortnum Airport (YFOR), Fortnum, WA",sub,Miscellaneous,0,0
+19-Nov-22,2022,Airbus A320-211,Airbus,N330NW,Delta Air Lines,0,"near Omaha-Eppley Airfield (OMA/KOMA), Omaha, NE",sub,Bird Strike,0,0
+20-Nov-22,2022,Boeing 737-4Q8 (SF),Boeing,TF-BBM,"Bluebird Cargo, opf ASL Airlines Belgium",0,Paris-Charles de Gaulle Airport (CDG/LFPG),sub,Mechanical Failure,0,0
+22-Nov-22,2022,Beechcraft 200 Super King Air,Beechcraft,N968T,Hollan Air LLC,0,"near Del Rio, TX",sub,Pilot Error,0,0
+25-Nov-22,2022,Cirrus SF50 Vision Jet G2,Cirrus,N15VJ,Verijet,0,"1,6 km SW of Indianapolis Regional Airport, IN",sub,Mechanical Failure,0,0
+28-Nov-22,2022,Airbus A330-243,Airbus,PR-AIY,Azul Linhas Aéreas Brasileiras,0,"near Manaus, AM",non,Miscellaneous,0,0
+29-Nov-22,2022,Boeing 737-7H4 (WL),Boeing,N946WN,Southwest Airlines,0,"near Denver, CO",non,Turbulence,0,0
+29-Nov-22,2022,Learjet 45,Learjet,N988MC,Jett Aircraft,0,"Batesville Regional Airport, AR (BVX)",sub,Pilot Error,0,0
+30-Nov-22,2022,Learjet 36,Learjet,N12FN,Aery Aviation,0,"Newport News/Williamsburg International Airport, VA (PHF)",sub,Mechanical Failure,0,0
+1-Dec-22,2022,Learjet 35A,Learjet,N979RF,"REVA, Inc.",0,Guantánamo Naval Air Station (NBW),sub,Pilot Error,0,0
+3-Dec-22,2022,Embraer ERJ-175LR,Embraer,N85356,Mesa Airlines,0,"Taneytown, MD",non,Turbulence,0,0
+7-Dec-22,2022,British Aerospace BAe-146-200,BAE,CC-ACO,Antarctic Airways,0,Iquique-Diego Aracena International Airport (IQQ/SCDA),sub,Mechanical Failure,0,0
+8-Dec-22,2022,Boeing 767-322ER (WL),Boeing,N649UA,United Airlines,0,"near Albany, NJ",non,Turbulence,0,0
+15-Dec-22,2022,Swearingen SA226-TC Metro II,Swearingen,N398KL,Key Lime Air,0,"Wichita Dwight D. Eisenhower National Airport, KS (ICT)",sub,Undetermined,0,0
+17-Dec-22,2022,de Havilland Canada DHC-8-402QPF Dash 8,de Havilland Canada,5Y-VVY,Blue Bird Aviation,0,Abudwak Airstrip,sub,Undetermined,0,0
+18-Dec-22,2022,Airbus A330-243,Airbus,N393HA,Hawaiian Airlines,0,"65 nm NNE of Maui, HI",min,Pilot Error,0,0
+18-Dec-22,2022,Boeing 737-824 (WL),Boeing,N87531,United Airlines,0,"near Cobán, Alta Verapaz",non,Miscellaneous,0,0
+22-Dec-22,2022,Boeing 787-9 Dreamliner,Boeing,C-FVNF,Air Canada,0,45 nm E of Tokyo-Narita Airport (NRT/RJAA),unk,Turbulence,0,0
+23-Dec-22,2022,de Havilland Canada DHC-6 Twin Otter 300,de Havilland Canada,PK-OTY,Rimbun Air,0,Moanemani Airport (ONI),sub,Undetermined,0,0
+24-Dec-22,2022,Gulfstream GIV-X (G450),Gulfstream,N456FX,Flexjet LLC,0,"Miami, Florida",non,Turbulence,0,0
+26-Dec-22,2022,Boeing 737-860 (WL),Boeing,ET-APL,Ethiopian Airlines,0,Mogadishu Aden Adde International Airport (MGQ/HCMM),sub,Bird Strike,0,0
+26-Dec-22,2022,Boeing 737 MAX 8-200,Boeing,EI-HEY,Ryanair,0,Bremen Airport (BRE/EDDW),non,Miscellaneous,0,0
+26-Dec-22,2022,Boeing 737-3Z0,Boeing,C5-MAB,"Tarco Aviation, lsf Mid Africa Aviation",0,Mogadishu Aden Adde International Airport (MGQ),sub,Mechanical Failure,0,0
+27-Dec-22,2022,Embraer EMB-505 Phenom 300,Embraer,N16DF,Skystallion LLC,0,"Hawthorne Airport, CA (HHR)",sub,Pilot Error,0,0
+31-Dec-22,2022,Cessna 208B Grand Caravan,Cessna,5X-GBR,BAR Aviation,0,Mweya Airport (HUMW),w/o,Pilot Error,0,0
+1-Jan-23,2023,Boeing 737 MAX 8,Boeing,C-FLRS,Flair Airlines,0,"Kitchener-Region of Waterloo International Airport, ON (YKF/CYKF)",sub,Miscellaneous,0,0
+2-Jan-23,2023,Bombardier CRJ-900LR,Bombardier,N928XJ,"Delta Connection, opb Endeavor Air",0,"New York-John F. Kennedy International Airport, NY (JFK/KJFK)",sub,Pilot Error,0,0
+2-Jan-23,2023,Airbus A330-202,Airbus,EI-EJM,ITA Airways,0,"New York-John F. Kennedy International Airport, NY (JFK/KJFK)",min,Pilot Error,0,0
+2-Jan-23,2023,Boeing 737-8K2 (WL),Boeing,PH-HXJ,Transavia Airlines,0,Rotterdam/The Hague Airport (RTM/EHRD),sub,Miscellaneous,0,0
+3-Jan-23,2023,Boeing 767-300F,Boeing,N496MM,"Amerijet International, lst Maersk Air Cargo",0,near Seoul-Incheon International Airport (ICN/RKSI),min,Mechanical Failure,0,0
+7-Jan-23,2023,Airbus A320-232 (WL),Airbus,JA14JJ,JetStar Japan,0,Nagoya/Chubu Centrair International Airport (NGO/RJGG),non,Miscellaneous,0,0
+7-Jan-23,2023,Boeing 737-846 (WL),Boeing,JA307J,Japan Airlines (JAL),0,E of Miyazaki,non,Miscellaneous,0,0
+11-Jan-23,2023,Antonov An-2R,Antonov,RA-17789,Stavropol City Aviation Sports Club,0,"near Novomaryevskaya, Stavropol Region",w/o,Miscellaneous,0,0
+13-Jan-23,2023,Cessna 550 Citation II,Cessna,YV2166,Air Master AP,0,Charallave-Óscar Machado Zuloaga Airport (SVCS),sub,Miscellaneous,0,0
+16-Jan-23,2023,Learjet 35A,Learjet,D-CGFC,GFD,0,E of Hohn Air Base (ETNH),min,Mechanical Failure,0,0
+16-Jan-23,2023,Cessna 208B Super Cargomaster,Cessna,N236KA,Kamaka Air,0,"3,6 km WSW of Molokai/Kaunakakai Airport, HI (MKK)",sub,Pilot Error,0,0
+18-Jan-23,2023,Beechcraft B200 King Air,Beechcraft,N200EJ,Lynch Flying Service Inc,0,"Poplar Municipal Airport, MT (PO1)",sub,Pilot Error,0,0
+21-Jan-23,2023,Boeing 737-8AS (WL),Boeing,9H-QDU,Ryanair,0,Niederrhein/Weeze Airport (NRN/EDLV),non,Miscellaneous,0,0
+22-Jan-23,2023,Airbus A350-1041,Airbus,G-XWBL,British Airways,0,over Canary Islands,non,Turbulence,0,0
+23-Jan-23,2023,de Havilland Canada DHC-6 Twin Otter 300,de Havilland Canada,VP-FBC,British Antarctic Survey,0,Mount Lymburner,unk,Pilot Error,0,0
+24-Jan-23,2023,Cessna 551 Citation II/SP,Cessna,N1252D,BoneDoc Aviation LLC,0,"Joplin Regional Airport (JLN/KJLN), Joplin, MO",sub,Mechanical Failure,0,0
+25-Jan-23,2023,Boeing 767-381ER (BCF),Boeing,JA603A,All Nippon Airways - ANA,0,Tokyo/Narita International Airport (NRT/RJAA),sub,Miscellaneous,0,0
+26-Jan-23,2023,Beechcraft 200 Super King Air,Beechcraft,,,0,"10.5 nm NNE of Southport Airport, QLD (SHQ/YSPT)",w/o,Miscellaneous,0,0
+27-Jan-23,2023,Cessna 560 Citation Encore,Cessna,C-FYMM,Chartright Air,0,"40 nm S of Toronto, ON",sub,Maintenance ,0,0
+27-Jan-23,2023,Let L-410UVP-E20,Let,EY-473,Fly Air Africa Aviation,0,NW of Juba Airport (JUB),w/o,Mechanical Failure,0,0
+5-Feb-23,2023,Learjet 60,Learjet,N357WP,Hera Flight,0,North Eleuthera International Airport (ELH/MYEH),sub,Pilot Error,0,0
+6-Feb-23,2023,Boeing 737-3H4 (WL),Boeing,N619SW,Coulson Aviation,0,"Fitzgerald River National Park, WA",w/o,Pilot Error,0,0
+8-Feb-23,2023,Cirrus SF50 Vision Jet G2,Cirrus,N426SJ,"Mag Aviation, LLC",0,"Waukesha Airport, WI (UES)",sub,Pilot Error,0,0
+9-Feb-23,2023,Boeing 737-406 (SF),Boeing,5N-OTT,Allied Air,0,Brazzaville-Maya Maya Airport (BZV/FCBB),sub,Mechanical Failure,0,0
+10-Feb-23,2023,Boeing 767-332ER (WL),Boeing,N197DN,Delta Air Lines,0,near Edinburgh Airport (EDI/EGPH),min,Mechanical Failure,0,0
+10-Feb-23,2023,Cessna 208B Super Cargomaster,Cessna,N9634B,SkyDive Mexico,0,San José Vista Hermosa,sub,Mechanical Failure,0,0
+10-Feb-23,2023,Cessna 208B Supervan 900,Cessna,P2-HFA,Helifix - PNG,0,Eliptamin Airport (EPT),sub,Pilot Error,0,0
+10-Feb-23,2023,Boeing 737-823 (WL),Boeing,N944AN,American Airlines,0,"Rushville, IN",non,Turbulence,0,0
+11-Feb-23,2023,Learjet 55,Learjet,N600C,1982-047 LLC,0,"Rochester-Greater Rochester International Airport, NY (ROC/KROC)",sub,Pilot Error,0,0
+13-Feb-23,2023,Britten-Norman BN-2B-20 Islander,Britten-Norman,PJ-WEB,Windward Express Airways,0,Saba-Juancho E. Yrausquin Airport (SAB),sub,Turbulence,0,0
+16-Feb-23,2023,Airbus A319-132,Airbus,N505NK,Spirit Airlines,0,"N of New Orleans, LA",non,Turbulence,0,0
+16-Feb-23,2023,Cessna 208 Cargomaster,Cessna,CX-MAX,Aeromás,0,"near Berisso, BA",w/o,Mechanical Failure,0,0
+17-Feb-23,2023,Honda HA-420 HondaJet,Honda,N14QB,Haedo Air LLC,0,"Houston-William P. Hobby Airport, TX (HOU)",sub,Pilot Error,0,0
+20-Feb-23,2023,Fokker 70,Fokker,P2-ANT,Air Niugini,0,near Port Moresby,non,Pilot Error,0,0
+22-Feb-23,2023,Bombardier CRJ-900LR,Bombardier,N954LR,"Mesa Airlines, opf American Eagle",0,"Hollywood Burbank Airport (BUR/KBUR), Burbank, CA",non,Miscellaneous,0,0
+24-Feb-23,2023,Embraer ERJ-190AR,Embraer,N337JB,Jetblue Airways,0,"New York-John F. Kennedy International Airport, NY (JFK/KJFK)",non,Maintenance ,0,0
+2-Mar-23,2023,Airbus A330-941,Airbus,D-ANRA,Condor Flugdienst,0,near Seychelles,min,Turbulence,0,0
+2-Mar-23,2023,de Havilland Canada DHC-8-402Q Dash 8,de Havilland Canada,C-GVEN,WestJet Encore,0,near Kelowna International Airport (YLW/CYLW),min,Mechanical Failure,0,0
+2-Mar-23,2023,Airbus A320-251N,Airbus,N366FR,Frontier Airlines,0,"NE of Dallas, TX",non,Turbulence,0,0
+5-Mar-23,2023,Honda HA-420 HondaJet Elite,Honda,N118CX,Nesama LLC dba Volato,0,"Buena Vista-Central Colorado Regional Airport (AEJ/KAEJ), CO",sub,Pilot Error,0,0
+8-Mar-23,2023,Boeing C-32A (757-2G4),Boeing,98-0001,US Air Force (USAF),0,Amman-Queen Alia International Airport (AMM/OJAI),sub,Miscellaneous,0,0
+21-Mar-23,2023,Boeing 777-224ER,Boeing,N79011,United Airlines,0,"near San Francisco International Airport, CA (SFO/KSFO)",non,Turbulence,0,0
+22-Mar-23,2023,Airbus A320-232,Airbus,N1902U,United Airlines,0,"Houston-George Bush Intercontinental Airport, TX (IAH/KIAH)",sub,Pilot Error,0,0
+22-Mar-23,2023,Boeing 777-28EER,Boeing,HL8254,Asiana Airlines,0,near Seoul,non,Turbulence,0,0
+24-Mar-23,2023,McDonnell Douglas MD-88 (SF),Boeing,N834US,USA Jet Airlines,0,Saltillo-Plan de Guadalupe International Airport (SLW/MMIO),sub,Pilot Error,0,0
+27-Mar-23,2023,Cessna 550 Citation II,Cessna,N550DW,Xceed Management Group LLC,0,"Oklahoma City-Wiley Post Airport, OK (PWA)",sub,Pilot Error,0,0
+30-Mar-23,2023,Cessna 525B CitationJet CJ3,Cessna,N869AC,Allegis Corp,0,"Gulf of Mexico, near Tampa, FL",sub,Undetermined,0,0
+1-Apr-23,2023,Cessna 750 Citation X,Cessna,N85AV,Discovery Jets,0,"Belmar/Farmingdale-Monmouth Executive Airport, NJ (BLM)",sub,Pilot Error,0,0
+6-Apr-23,2023,Cessna 550 Citation II,Cessna,C-FHLG,FLYGTA Airlines Inc.,0,"278 km N of Southern Pines, NC",sub,Miscellaneous,0,0
+9-Apr-23,2023,Boeing 737-8AS (WL),Boeing,EI-DHH,Ryanair,0,Dublin Airport (DUB/EIDW),sub,Pilot Error,0,0
+13-Apr-23,2023,Boeing 777-31HER,Boeing,A6-EGH,Emirates,0,"Miami International Airport, FL (MIA/KMIA)",sub,Miscellaneous,0,0
+13-Apr-23,2023,Airbus A330-243,Airbus,C-GUBL,Air Transat,0,"Miami International Airport, FL (MIA/KMIA)",sub,Miscellaneous,0,0
+14-Apr-23,2023,British Aerospace 3112 Jetstream 31,BAE,C-FCPE,Northwestern Air,0,"Fort Smith Airport, NT (YSM)",sub,Mechanical Failure,0,0
+15-Apr-23,2023,Boeing 737-86Q (WL),Boeing,UR-SQH,"SkyUp Airlines, opf Sun Air Company",0,Khartoum International Airport (KRT),w/o,Miscellaneous,0,0
+15-Apr-23,2023,Airbus A330-343E,Airbus,HZ-AQ30,Saudi Arabian Airlines,0,Khartoum International Airport (KRT),w/o,Miscellaneous,0,0
+16-Apr-23,2023,Antonov An-72-100D,Antonov,ST-PRM,Sudan Police Air Wing,0,Khartoum International Airport (KRT),w/o,Miscellaneous,0,0
+16-Apr-23,2023,Ilyushin Il-76TD,Ilyushin,ST-APS,Kush Aviation,0,Khartoum International Airport (KRT),w/o,Miscellaneous,0,0
+16-Apr-23,2023,Ilyushin Il-76TD,Ilyushin,ST-EWD,Kush Aviation,0,Khartoum International Airport (KRT),w/o,Miscellaneous,0,0
+16-Apr-23,2023,Ilyushin Il-62M,Ilyushin,ST-PRA,Sudan Government,0,Khartoum International Airport (KRT),w/o,Miscellaneous,0,0
+16-Apr-23,2023,Saab 340A,Saab,TG-TAI,TAG Airlines,0,Flores-Mundo Maya International Airport (FRS),sub,Mechanical Failure,0,0
+17-Apr-23,2023,Beechcraft B300 King Air 350,Beechcraft,ZS-SYX,Motrade 518 Pty Ltd,0,Khartoum International Airport (KRT/HSSK),w/o,Miscellaneous,0,0
+17-Apr-23,2023,Ilyushin Il-76TD,Ilyushin,EW-576TH,Belcanto Airlines,0,Khartoum International Airport (KRT),w/o,Miscellaneous,0,0
+17-Apr-23,2023,Antonov An-74-200,Antonov,ST-PRD,Sudan Government,0,Khartoum International Airport (KRT),w/o,Miscellaneous,0,0
+17-Apr-23,2023,Antonov An-32B,Antonov,7710,Al Quwwat al-Jawwiya As-Sudaniya (Sudanese Air Force),0,Khartoum International Airport (KRT),w/o,Miscellaneous,0,0
+17-Apr-23,2023,Antonov An-26B-100,Antonov,7718,Al Quwwat al-Jawwiya As-Sudaniya (Sudanese Air Force),0,Khartoum International Airport (KRT),w/o,Miscellaneous,0,0
+17-Apr-23,2023,Antonov An-12BK,Antonov,9966,Al Quwwat al-Jawwiya As-Sudaniya (Sudanese Air Force),0,Khartoum International Airport (KRT),w/o,Miscellaneous,0,0
+17-Apr-23,2023,Antonov An-12BK,Antonov,9977,Al Quwwat al-Jawwiya As-Sudaniya (Sudanese Air Force),0,Khartoum International Airport (KRT),w/o,Miscellaneous,0,0
+17-Apr-23,2023,Antonov An-12BK,Antonov,9933,Al Quwwat al-Jawwiya As-Sudaniya (Sudanese Air Force),0,Khartoum International Airport (KRT),w/o,Miscellaneous,0,0
+17-Apr-23,2023,Antonov An-12BP,Antonov,9988,Al Quwwat al-Jawwiya As-Sudaniya (Sudanese Air Force),0,Khartoum International Airport (KRT),w/o,Miscellaneous,0,0
+19-Apr-23,2023,Boeing 737-33A (SF),Boeing,PK-YGW,Asia Cargo Airlines,0,Khartoum International Airport (KRT),w/o,Miscellaneous,0,0
+21-Apr-23,2023,Beechcraft 200 Super King Air,Beechcraft,LV-WPM,Flytec SA,0,"Salta-Martín Miguel de Güemes International Airport, SA (SLA)",sub,Undetermined,0,0
+21-Apr-23,2023,Ilyushin Il-76TD,Ilyushin,ST-BDN,Badr Airlines,0,Khartoum International Airport (KRT),w/o,Miscellaneous,0,0
+21-Apr-23,2023,Antonov An-32B,Antonov,7709,Al Quwwat al-Jawwiya As-Sudaniya (Sudanese Air Force),0,Khartoum International Airport (KRT),w/o,Miscellaneous,0,0
+21-Apr-23,2023,Antonov An-30,Antonov,7708,Al Quwwat al-Jawwiya As-Sudaniya (Sudanese Air Force),0,Khartoum International Airport (KRT),w/o,Miscellaneous,0,0
+21-Apr-23,2023,Antonov An-26,Antonov,7777,Al Quwwat al-Jawwiya As-Sudaniya (Sudanese Air Force),0,Khartoum International Airport (KRT),w/o,Miscellaneous,0,0
+21-Apr-23,2023,Antonov An-26,Antonov,7705,Al Quwwat al-Jawwiya As-Sudaniya (Sudanese Air Force),0,Khartoum International Airport (KRT),w/o,Miscellaneous,0,0
+21-Apr-23,2023,Antonov An-12BP,Antonov,-,Al Quwwat al-Jawwiya As-Sudaniya (Sudanese Air Force),0,Khartoum International Airport (KRT),w/o,Miscellaneous,0,0
+21-Apr-23,2023,Airbus A320-214,Airbus,B-LPI,Hong Kong Airlines,0,Hong Kong FIR,non,Turbulence,0,0
+22-Apr-23,2023,Cessna 208 Caravan I,Cessna,5X-ASI,"Airfast, lsf Air Serv",0,Obaye Airstrip (FZNQ),sub,Pilot Error,0,0
+22-Apr-23,2023,Boeing 777-223ER,Boeing,N770AN,American Airlines,0,over Atlantic Ocean,non,Turbulence,0,0
+23-Apr-23,2023,Saab 340A (F),Saab,VH-KDK,Pel-Air,0,"114 km ENE of Cobar, NSW",sub,Mechanical Failure,0,0
+26-Apr-23,2023,Boeing 777-233LR,Boeing,C-FIUF,Air Canada,0,"Sydney-Kingsford Smith International Airport, NSW (SYD) ?",sub,Bird Strike,0,0
+28-Apr-23,2023,Gulfstream G500,Gulfstream,N507GD,General Dynamics Corp,0,"near Washington-Dulles International Airport, VA (IAD/KIAD)",non,Miscellaneous,0,0
+4-May-23,2023,Boeing 787-8 Dreamliner,Boeing,CC-BBF,LATAM Airlines Chile,0,Bogotá-Eldorado Airport (BOG/SKBO),sub,Miscellaneous,0,0
+5-May-23,2023,Airbus A321-231 (WL),Airbus,N921US,American Airlines,0,"Charlotte-Douglas International Airport, NC (CLT/KCLT)",sub,Pilot Error,0,0
+6-May-23,2023,Boeing 747-428F,Boeing,N580UP,UPS Airlines,0,Tokyo-Narita International Airport (NRT/RJAA),sub,Undetermined,0,0
+9-May-23,2023,Cessna 208 Caravan 675,Cessna,PK-HVG,Dimonim Air,0,Yabi Airstrip,sub,Undetermined,0,0
+11-May-23,2023,Embraer ERJ-175LR,Embraer,N88331,"United Express, opb Mesa Airlines",0,"near New Orleans, LA",unk,Turbulence,0,0
+11-May-23,2023,Cessna 208B Grand Caravan,Cessna,PK-NGA,Nasional Global Aviasi,0,Fentheik Airstrip,sub,Undetermined,0,0
+11-May-23,2023,Hawker 900XP,Hawker,PK-LRU,Angkasa Super Services,0,Maleo Airport (MOH),sub,Mechanical Failure,0,0
+12-May-23,2023,Cessna 208B Grand Caravan,Cessna,5X-RBR,Bar Aviation,0,Kampala-Kajjansi Airfield (HUKJ),w/o,Miscellaneous,0,0
+14-May-23,2023,Boeing 747-4R7F,Boeing,LX-OCV,Cargolux,0,Luxembourg-Findel Airport (LUX),sub,Mechanical Failure,0,0
+16-May-23,2023,de Havilland Canada DHC-6 Twin Otter 300,de Havilland Canada,8Q-TAQ,Trans Maldivian Airways,0,Vommuli Water Aerodrome,sub,Pilot Error,0,0
+18-May-23,2023,Honda HA-420 HondaJet,Honda,N255HJ,Upfrunt Services LLC,0,"Summerville Airport, SC (KDYB)",w/o,Pilot Error,0,0
+19-May-23,2023,Shorts SC.7 Skyvan 3A-100,Short,AF-519,Uganda Peoples Defence Force,0,near Kalongo Airstrip,w/o,Undetermined,0,0
+26-May-23,2023,Beechcraft B300 King Air 350,Beechcraft,N680CB,Dalks Leasing Inc,0,"Melbourne, FL",min,Undetermined,0,0
+30-May-23,2023,Bombardier BD-100 Challenger 350,Bombardier,LN-JHH,Sundt Air,0,Dundee Airport (DND/EGPN),sub,ATC/Pilot Miscommunication,0,0
+1-Jun-23,2023,Airbus A320-232,Airbus,N479UA,United Airlines,0,"near Houston, TX",non,Turbulence,0,0
+1-Jun-23,2023,Boeing 737-924ER (WL),Boeing,N28457,United Airlines,0,"near Chicago, IL",non,Turbulence,0,0
+5-Jun-23,2023,Boeing 737-8CT (WL),Boeing,C-GWSX,WestJet,0,"Calgary International Airport, AB (YYC/CYYC)",sub,Miscellaneous,0,0
+15-Jun-23,2023,Boeing 777-336ER,Boeing,G-STBL,British Airways,0,over Bay of Bengal,non,Turbulence,0,0
+19-Jun-23,2023,Boeing 787-9 Dreamliner,Boeing,9V-OJF,Scoot,0,Seoul-Incheon International Airport (ICN/RKSI),sub,Mechanical Failure,0,0
+21-Jun-23,2023,Airbus A320-214,Airbus,OO-SNI,Brussels Airlines,0,Vilnius Airport (VNO/EYVI),sub,Mechanical Failure,0,0
+24-Jun-23,2023,Boeing 777-367ER,Boeing,B-KPQ,Cathay Pacific Airways,0,Hong Kong-Chek Lap Kok International Airport (HKG/VHHH),min,Mechanical Failure,0,0
+26-Jun-23,2023,ATR 72-600 (72-212A),ATR,PR-PFD,Imetame Metalmecanica Ltda,0,"Telêmaco Borba, PR (SSVL)",sub,Miscellaneous,0,0
+28-Jun-23,2023,Boeing 717-2BD,Boeing,N955AT,Delta Air Lines,0,"Charlotte-Douglas International Airport, NC (CLT/KCLT)",sub,Maintenance ,0,0
+28-Jun-23,2023,Boeing 777-236ER,Boeing,G-YMML,British Airways,0,near Beijing,non,Turbulence,0,0
+3-Jul-23,2023,Cessna 208B Supervan 900,Cessna,N716MM,Arne Aviation LLC,0,"Suffolk Executive Airport (KSFQ), Suffolk, VA",sub,Pilot Error,0,0
+6-Jul-23,2023,Antonov An-2R,Antonov,RA-02241,Aircompany Parma,0,"near Chuvashi village, Kirovo-Chepetsky district, Kirov region",sub,Mechanical Failure,0,0
+8-Jul-23,2023,Antonov An-2R,Antonov,SE-KCE,Aviatörsföreningen Antonov 2,0,Vårgårda,sub,Pilot Error,0,0
+11-Jul-23,2023,Embraer EMB-120 Brasilia,Embraer,6O-AAD,Halla Airlines,0,Mogadishu Aden Adde International Airport (MGQ),w/o,Miscellaneous,0,0
+12-Jul-23,2023,Airbus A320-214 (WL),Airbus,N249NV,Allegiant Air,0,"NE of St. Petersburg, Florida",non,Turbulence,0,0
+17-Jul-23,2023,Boeing 747-412F,Boeing,OE-LRG,Challenge Airlines,0,Tel Aviv-Ben Gurion International Airport (TLV/LLBG),sub,Miscellaneous,0,0
+17-Jul-23,2023,Boeing 757-23A (SF),Boeing,N918FD,FedEx Express,0,Tel Aviv-Ben Gurion International Airport (TLV/LLBG),sub,Miscellaneous,0,0
+17-Jul-23,2023,Cessna 208B Grand Caravan,Cessna,5Y-RNA,Aero Jet Aviation Ltd,0,Walgak Airstrip,sub,Pilot Error,0,0
+20-Jul-23,2023,Airbus A321-211,Airbus,C-GYFM,Air Canada Rouge,0,"9,3 km N of Toronto-Pearson International Airport, ON (YYZ)",sub,Turbulence,0,0
+22-Jul-23,2023,Airbus CC-150 Polaris (A310-300),Airbus,15003,Royal Canadian Air Force - RCAF,0,Guam-Andersen AFB (UAM/PGUA),sub,Miscellaneous,0,0
+23-Jul-23,2023,Airbus A320-214,Airbus,N229NV,Allegiant Air,0,"near Melbourne, FL",non,Pilot Error,0,0
+24-Jul-23,2023,Boeing 767-332ER (WL),Boeing,N189DN,Delta Air Lines,0,W of Milan,min,Pilot Error,0,0
+24-Jul-23,2023,Boeing 737-7H4 (WL),Boeing,N279WN,Southwest Airlines,0,"East Palestine, OH",non,Turbulence,0,0
+28-Jul-23,2023,Boeing 737-924ER (WL),Boeing,N77431,United Airlines,0,"450 km E of Myrtle Beach, SC, USA",non,Turbulence,0,0
+29-Jul-23,2023,Boeing 767-322ER (WL),Boeing,N641UA,United Airlines,0,"Houston-George Bush Intercontinental Airport, TX (IAH/KIAH)",sub,Pilot Error,0,0
+29-Jul-23,2023,Beechcraft B300 King Air 350,Beechcraft,C-GTEM,Alkan Air,0,"Vancouver International Airport, BC (YVR/CYVR)",sub,Miscellaneous,0,0
+3-Aug-23,2023,Boeing 767-322ER (WL),Boeing,N676UA,United Airlines,0,"Washington-Dulles International Airport (IAD/KIAD), Chantilly, VA",sub,Maintenance ,0,0
+7-Aug-23,2023,Cessna 208B Grand Caravan,Cessna,ZS-JEM,Federal Airlines,0,Arathusa Safari Lodge (FAAR),non,Mechanical Failure,0,0
+7-Aug-23,2023,Boeing 737-8U3 (WL),Boeing,PK-GNM,Garuda Indonesia Airways,0,Banjarmasin-Sjamsudin Noor Airport (BDJ/WAOO),sub,Miscellaneous,0,0
+9-Aug-23,2023,Lockheed CC-130H Hercules,Lockheed,130337,Canadian Air Force (CAF),0,"Comox Airport, British Columbia. (YQQ/CYQQ)",unk,Miscellaneous,0,0
+9-Aug-23,2023,Boeing 737-7CT (WL),Boeing,C-FWSI,WestJet,0,Comox Valley Airport (YQQ),sub,Miscellaneous,0,0
+12-Aug-23,2023,Beechcraft B200 Super King Air,Beechcraft,VH-FDG,RFDS Australia,0,"Cloncurry Airport, QLD (CNJ/YCCY)",sub,Miscellaneous,0,0
+14-Aug-23,2023,Embraer ERJ-170SE,Embraer,N776MS,"American Eagle, opb Envoy",0,"near Eleroy, IL",non,Turbulence,0,0
+15-Aug-23,2023,Beechcraft C99 Commuter,Beechcraft,N261SW,Ameriflight,0,"Lansing-Capital Region International Airport (LAN/KLAN), Lansing, MI",sub,Pilot Error,0,0
+18-Aug-23,2023,Boeing 777-222,Boeing,N209UA,United Airlines,0,over Northern Atlantic Ocean,non,Turbulence,0,0
+20-Aug-23,2023,Boeing 737-890 (WL),Boeing,N516AS,Alaska Airlines,0,"Santa Ana-John Wayne International Airport (SNA/KSNA), Santa Ana, CA",sub,Maintenance ,0,0
+21-Aug-23,2023,IAI 1125 Astra SP,IAI,N39TT,Northern Illinois Flight Center,0,"Chicago-Executive Airport (PWK/KPWK), Wheeling, IL",sub,Mechanical Failure,0,0
+24-Aug-23,2023,Viking Air DHC-6 Twin Otter 400,Viking,F-OMYS,Air Antilles,0,Saint-Barthélémy-Rémy de Haenen Airport (SBH/TFFJ),sub,Miscellaneous,0,0
+24-Aug-23,2023,Beechcraft B99 Airliner,Beechcraft,C6-FLR,Flamingo Air Charter,0,Black Point Airstrip (MYEB),sub,Undetermined,0,0
+29-Aug-23,2023,Airbus A350-941,Airbus,N576DZ,Delta Air Lines,0,"near Atlanta, GA",min,Turbulence,0,0
+30-Aug-23,2023,Boeing 777-328ER,Boeing,F-GSQT,Air France,0,Paris-Charles de Gaulle Airport (CDG/LFPG),unk,Miscellaneous,0,0
+30-Aug-23,2023,Airbus A330-941,Airbus,N411DX,Delta Air Lines,0,Paris-Charles de Gaulle Airport (CDG/LFPG),unk,Miscellaneous,0,0
+30-Aug-23,2023,Airbus A321-253NX,Airbus,EI-LRD,Aer Lingus,0,"Washington-Dulles International Airport, DC (IAD/KIAD)",sub,Miscellaneous,0,0
+30-Aug-23,2023,Beechcraft 200 King Air,Beechcraft,N313CT,Almar Aviation Inc,0,"Henderson City-County Airport (EHR/KEHR), Henderson, KY",sub,Bird Strike,0,0
+1-Sep-23,2023,Beechcraft B200C Super King Air,Beechcraft,P2-JAU,Tropicair,0,Port Moresby-Jacksons International Airport (POM/AYPY),sub,Mechanical Failure,0,0
+6-Sep-23,2023,Boeing 737 MAX 9,Boeing,N37531,United Airlines,0,"near Cincinnati/Northern Kentucky Airport, KY (CVG)",non,Turbulence,0,0
+7-Sep-23,2023,Fairchild SA227-DC Metro 23,Fairchild,C-GJVW,Perimeter Aviation,0,"Detour Lake, ON (CDT9)",sub,Mechanical Failure,0,0
+8-Sep-23,2023,Beechcraft 200 Super King Air,Beechcraft,N220KW,Airselect LLC,0,"near Elk Grove Village, IL",sub,Pilot Error,0,0
+14-Sep-23,2023,Learjet 45XR,Learjet,VT-DBL,VSR Ventures,0,Mumbai-Chhatrapati Shivaji International Airport (BOM/VABB),w/o,Turbulence,0,0
+18-Sep-23,2023,Boeing 767-323ER (BDSF) (WL),Boeing,A9C-DHAB,DHL International Aviation ME,0,Beirut-Rafic Hariri International Airport (BEY/OLBA),sub,Miscellaneous,0,0
+19-Sep-23,2023,Boeing 737-85P (WL),Boeing,EC-MJU,Air Europa,0,Palma de Mallorca Airport (PMI/LEPA),sub,Miscellaneous,0,0
+19-Sep-23,2023,Boeing 757-330 (WL),Boeing,D-ABOJ,Condor Flugdienst,0,Palma de Mallorca Airport (PMI/LEPA),sub,Miscellaneous,0,0
+21-Sep-23,2023,Embraer EMB-545 Praetor 500,Embraer,N434FX,Flexjet LLC,0,"Brunswick-Malcolm McKinnon Airport, (SSI/KSSI, St Simons Island, GA",sub,Undetermined,0,0
+25-Sep-23,2023,Airbus A320-232,Airbus,N569JB,JetBlue Airways,0,Carribean Sea near Jamaica,non,Turbulence,0,0
+28-Sep-23,2023,Boeing 787-8 Dreamliner,Boeing,N804AN,American Airlines,0,"near Detroit, MI",non,Mechanical Failure,0,0
+30-Sep-23,2023,Boeing 737 MAX 9,Boeing,N37560,United Airlines,0,"Denver International Airport (DEN/KDEN), Denver, CO",sub,Fire,0,0
+4-Oct-23,2023,Learjet 45,Learjet,XA-JAO,AeroParadise,0,El Lencero (MMJA),sub,Runway ,0,0
+4-Oct-23,2023,Boeing 757-236 (SF),Boeing,N977FD,FedEx Express,0,"Chattanooga-Lovell Field (CHA/KCHA), Chattanooga, TN",sub,Mechanical Failure,0,0
+4-Oct-23,2023,Boeing 737-8AS (WL),Boeing,EI-EGD,Ryanair,0,London-Stansted Airport (STN/EGSS),min,Miscellaneous,0,0
+4-Oct-23,2023,Airbus A321-253NX,Airbus,G-OATW,Titan Airways,0,"near London-Stansted Airport (STN/EGSS), Essex",sub,Mechanical Failure,0,0
+16-Oct-23,2023,Beechcraft B200T Super King Air,Beechcraft,M41-02,Royal Malaysian Air Force - RMAF,0,"Sultan Abdul Aziz Shah Airport (SZB/WMSA), Subang, Selangor",unk,Undetermined,0,0
+18-Oct-23,2023,Beechcraft 300 Super King Air,Beechcraft,N93GA,Csw Aviation LLC,0,"Atlanta-DeKalb Peachtree Airport, GA (PDK/KPDK)",sub,Pilot Error,0,0
+20-Oct-23,2023,Cessna 208 Supervan 900,Cessna,VH-UMV,Experience Co (Skydive Australia),0,"near Barwon Heads Airport (YBRS), Connewarre, VIC",sub,Miscellaneous,0,0
+20-Oct-23,2023,Ilyushin Il-76MD,Ilyushin,RF-86900,Russian Air Force,0,Dushanbe-Gissar Air Base,w/o,Mechanical Failure,0,0
+24-Oct-23,2023,Raytheon Hawker 850XP,Raytheon,N269AA,Whitmore Holdings LLC,0,"Houston-William P. Hobby Airport, TX (HOU)",sub,Pilot Error,0,0
+24-Oct-23,2023,Cessna 510 Mustang,Cessna,N510HM,SB 501 LLC,0,"Houston-William P. Hobby Airport, TX (HOU)",sub,Pilot Error,0,0
+24-Oct-23,2023,Reims-Cessna F406 Caravan II,Reims-Cessna,V5-WAI,Westair Aviation,0,near Osire,sub,Mechanical Failure,0,0
+29-Oct-23,2023,Airbus A320-233,Airbus,LZ-MDI,"Air Arabia Maroc, opb Fly2Sky",0,Casablanca-Mohamed V Airport (CMN/GMMN),min,Maintenance ,0,0
+30-Oct-23,2023,Cessna C-98 Caravan I (208A),Cessna,FAB2724,Força Aérea Brasileira - FAB,0,"near Palimiú Community, Roraima",w/o,Undetermined,0,0
+31-Oct-23,2023,ATR 72-600 (72-212A),ATR,G-CMJM,"Aer Lingus Regional, opb Emerald Airlines UK",0,Edinburgh Airport (EDI/EGPH),min,Maintenance ,0,0
+1-Nov-23,2023,Antonov An-2R,Antonov,RA-71196,KavMinVody Avia ?,0,Mineralnye Vody Airport (MRV/URMM),sub,Pilot Error,0,0
+1-Nov-23,2023,Beechcraft 1900D,Beechcraft,ZS-OKN,National Airways Corporation,0,Port Elizabeth Airport (FAPE),sub,Miscellaneous,0,0
+3-Nov-23,2023,Raytheon Hawker 800XP,Raytheon,5N-AMM,Flints Aero Services,0,"Ibadan Airport (IBA/DNIB), Oyo State",sub,Pilot Error,0,0
+3-Nov-23,2023,Embraer EMB-110P1 Bandeirante,Embraer,PT-OCV,RICO Taxi Aéreo,0,"Manaus-Eduardo Gomes International Airport, AM (MAO/SBEG)",sub,Mechanical Failure,0,0
+3-Nov-23,2023,Pilatus PC-24,Pilatus,C-FMHR,Mark Anthony Group Inc.,0,"near Kelowna, BC",sub,Mechanical Failure,0,0
+10-Nov-23,2023,Antonov TR-301,Antonov,RA-84566,Stryzh Avia,0,"15 km SW of Polyarny, Chukotka",w/o,Pilot Error,0,0
+13-Nov-23,2023,Cessna 560 Citation Ultra,Cessna,N560ZS,Special Services Corporation,0,"Greenville Downtown Airport, SC (GMU/KGMU)",w/o,Fire,0,0
+15-Nov-23,2023,Cessna 208B Grand Caravan EX,Cessna,N867UT,TVPX Aircraft Solution INC Trustee,0,"near Mariscal Estigarribia, PY",sub,Undetermined,0,0
+20-Nov-23,2023,Boeing P-8A Poseidon,Boeing,169561,US Navy (USN),0,"Kaneohe Bay MCAS (Marion E. Carl Field) (NGF/PHNG), Kaneohe, HI",w/o,Pilot Error,0,0
+26-Nov-23,2023,Cessna 560XL Citation Excel,Cessna,N475CW,"Ultra Air, LLC",0,"Council Bluffs, IA",sub,Bird Strike,0,0
+28-Nov-23,2023,Embraer EMB-120ER Brasilia,Embraer,5H-FLM,Sindbard Air,0,Kikoboga/Mikumi Airstrip (HTMK),sub,Mechanical Failure,0,0
+28-Nov-23,2023,Embraer EMB-120ER Brasilia,Embraer,5H-MJH,UnityAir Zanzibar,0,Kikoboga/Mikumi Airstrip (HTMK),sub,Mechanical Failure,0,0
+30-Nov-23,2023,Beechcraft 400A Beechjet,Beechcraft,N800SD,Aircraft Charter Group LLC,0,"Atlanta-DeKalb Peachtree Airport, GA (PDK/KPDK)",min,Mechanical Failure,0,0
+30-Nov-23,2023,Boeing 717-2BL,Boeing,N494HA,Hawaiian Airlines,0,"Kahului Airport (OGG/PHOG), Kahului, HI",min,Undetermined,0,0
+4-Dec-23,2023,Airbus A380-861,Airbus,A6-EEV,Emirates,0,within Male FIR,min,Turbulence,0,0
+6-Dec-23,2023,Beechcraft 200 Super King Air,Beechcraft,N98RA,Dena'ina Air Taxi dba TransNorthern Aviation,0,"New Stuyahok Airport (KNW/PANW), New Stuyahok, AK",sub,Pilot Error,0,0
+8-Dec-23,2023,Saab 340B,Saab,A3-PUA,Lulutai Airlines,0,Nuku'alofa-Fua'Amotu International Airport (TBU/NFTF),sub,Mechanical Failure,0,0
+15-Dec-23,2023,Cessna 510 Citation Mustang,Cessna,PR-MCL,Roma Participações,0,"Ijuí-J. Batista Bos Filho Airport, RS (IJU/SSIJ)",sub,Runway ,0,0
+17-Dec-23,2023,Cessna 208B Grand Caravan,Cessna,5Y-GOK,Government of Kenya,0,Kiunga Airstrip (KIU),w/o,Pilot Error,0,0
+19-Dec-23,2023,Boeing 737-8H4 (WL),Boeing,N8514F,Southwest Airlines,0,"NNE of Saint Louis, MO",sub,Bird Strike,0,0
+26-Dec-23,2023,Beechcraft B200 Super King Air,Beechcraft,N217LG,RC Leasing LLC opb Mayo Aviation,0,"Centennial Airport (APA/KAPA), Englewood, CO",sub,Undetermined,0,0
+27-Dec-23,2023,de Havilland Canada DHC-6 Twin Otter 300,de Havilland Canada,C-GMAS,Air Tindi,0,"16 km from Diavik Diamond Mine, 300 km NW of Yellowknife, NT",sub,Pilot Error,0,0
+30-Dec-23,2023,Cessna 560XL Citation XLS,Cessna,TC-LLL,Kalyon Güven Aviation,0,Diyarbakir Airport (DIY/LTCC),sub,Miscellaneous,0,0
+30-Dec-23,2023,ATR 72-600 (72-212A),ATR,G-CMMT,"Aer Lingus Regional, opb Emerald Airlines UK",0,Belfast City Airport (BHD/EGAC),min,Turbulence,0,0
+29-Dec-24,2024,Boeing 767-322ER (WL),Boeing,N647UA,United Airlines,0,over Gulf of Mexico,non,Turbulence,0,0
+28-Dec-24,2024,Bombardier DHC-8-402Q Dash 8,Bombardier,C-GPNA,"Air Canada Express, opb PAL Airlines",0,Halifax Stanfield International Airport (YHZ/CYHZ),sub,Mechanical Failure,0,0
+27-Dec-24,2024,Cessna 560 Citation V,Cessna,N753MB,Steel Diamond LLC opb Metroplex Flight Services,0,"Stevens Field (PGO/KPSO), Pagosa Springs, CO",sub,Mechanical Failure,0,0
+26-Dec-24,2024,Boeing 737 MAX 9,Boeing,N958AK,Alaska Airlines,0,"near Henderson, NV",non,Turbulence,0,0
+22-Dec-24,2024,Antonov An-2R,Antonov,RA-33555,Faeravia,0,"Mount Tundrovaya, Ust-Kamchatsky Raion, Kamchatka Krai",sub,Pilot Error,0,0
+22-Dec-24,2024,ATR 72-600,ATR,G-CMMK,"Aer Lingus Regional, opb Emerald Airlines UK",0,Belfast City Airport (BHD/EGAC),sub,Undetermined,0,0
+18-Dec-24,2024,Lockheed L-100-30 Hercules,Lockheed,N403LC,Lynden Air Cargo,0,"near St. Mary's, AK",sub,Mechanical Failure,0,0
+17-Dec-24,2024,Cessna 208B Grand Caravan EX,Cessna,PR-VDB,Voare Táxi Aéreo Ltda,0,"Surucucu Airport (SWUQ), Alto Alegre, RR",sub,Runway,0,0
+16-Dec-24,2024,Boeing 737-8K5 (WL),Boeing,G-TAWB,TUI Airways,0,East Midlands Airport (EMA/EGNX),non,Mechanical Failure,0,0
+11-Dec-24,2024,Cessna 560 Citation V Ultra,Cessna,N981AG,International Aviation Sales LTD opb Aitheras Aviation,0,"Hartsfield–Jackson Atlanta International Airport (ATL/KATL), GA",sub,Miscellaneous,0,0
+11-Dec-24,2024,Boeing 737-4Y0 (SF),Boeing,5N-JRT,Allied Air,0,Abuja-Nnamdi Azikiwe International Airport (ABV/DNAA),sub,Miscellaneous,0,0
+10-Dec-24,2024,Embraer ERJ-145EP,Embraer,G-SAJE,Loganair,0,"Edinburgh Airport (EDI/EGPH), Lothian, Scotland",non,Miscellaneous,0,0
+10-Dec-24,2024,Antonov An-2R,Antonov,RA-40418,Mobil Avia,0,"1 km from Tambey Airstrip, Yamal-Nenets Autonomous District",sub,Pilot Error,0,0
+3-Dec-24,2024,Boeing 787-9 Dreamliner,Boeing,N29975,United Airlines,0,over Pacific Ocean,non,Turbulence,0,0
+28-Nov-24,2024,Beechcraft B300 King Air 350,Beechcraft,N907EJ,Barrel King LLC,0,"Macon County Airport (1A5), Franklin, NC",sub,Mechanical Failure,0,0
+27-Nov-24,2024,Boeing 737-408,Boeing,C-GGWX,Nolinor Aviation,0,"Montréal–Mirabel International Airport (YMX/CYMX), QC",sub,Mechanical Failure,0,0
+26-Nov-24,2024,Cirrus SF50 Vision Jet G2,Cirrus,N701MK,Flying K Properties LLC,0,"Falcon Field (MSC/KFFZ), Mesa, AZ",sub,Pilot Error,0,0
+24-Nov-24,2024,Sukhoi Superjet 100-95LR,Sukhoi,RA-89085,Azimuth,0,Antalya Airport (AYT/LTAI),sub,Undetermined,0,0
+23-Nov-24,2024,Boeing 777-223ER,Boeing,N753AN,American Airlines,0,near Brasilia,non,Turbulence,0,0
+21-Nov-24,2024,Airbus A220-300,Airbus,HB-JCH,Swiss International Air Lines,0,Brussel-Zaventem Airport (BRU/EBBR),sub,Runway,0,0
+20-Nov-24,2024,Embraer ERJ-175LR,Embraer,N85352,"United Express, opb Mesa Airlines",0,"near Warnock, OH",non,Turbulence,0,0
+19-Nov-24,2024,Let L-410UVP-E9,Let,TL-BMM,Salaam Air Express,0,Lankien Airstrip,sub,Runway,0,0
+19-Nov-24,2024,Boeing 767-338ER (BDSF) (WL),Boeing,C-GAZI,"Cargojet Airways, opf Amazon Prime Air",0,"Vancouver International Airport (YVR/CYVR), BC",sub,Mechanical Failure,0,0
+18-Nov-24,2024,Boeing 757-231 (WL),Boeing,N717TW,Delta Air Lines,0,"near Cooper Hill, MO",non,Turbulence,0,0
+17-Nov-24,2024,Bombardier Challenger 650,Bombardier,N247QS,NetJets Aviation,0,"Jackson Hole Airport (JAC/KJAC), Jackson, WY",sub,Mechanical Failure,0,0
+15-Nov-24,2024,Boeing 787-9 Dreamliner,Boeing,N833AA,American Airlines,0,"NE of Tokyo, over North Pacific Ocean",non,Turbulence,0,0
+15-Nov-24,2024,de Havilland Canada DHC-6 Twin Otter 300,de Havilland Canada,N241SA,Grand Canyon Scenic Airlines,0,"Boulder City Municipal Airport (BLD/KBVU),",sub,Turbulence,0,0
+12-Nov-24,2024,ATR 72-500 (72-212A),ATR,OH-ATM,"Finnair, opb NORRA - Nordic Regional Airlines",0,Helsinki-Vantaa Airport (HEL/EFHK),non,Miscellaneous,0,0
+9-Nov-24,2024,Airbus A310-325,Airbus,EP-MDK,Iran Airtour,0,near Dubai Airport (DXB/OMDB),non,Turbulence,0,0
+9-Nov-24,2024,Boeing 737-4Q8 (SF),Boeing,PS-TLB,TOTAL Linhas Aéreas,0,"São Paulo-Guarulhos International Airport, SP (GRU/SBGR)",w/o,Fire,0,0
+3-Nov-24,2024,Boeing 767-322ER (WL),Boeing,N651UA,United Airlines,0,"near Kingston, Jamaica",non,Turbulence,0,0
+29-Oct-24,2024,Airbus A300F4-622R,Airbus,N162UP,United Parcel Service - UPS,0,"Louisville-Muhammad Ali International Airport, KY (SDF/KSDF)",sub,Pilot Error,0,0
+27-Oct-24,2024,Antonov An-2TP,Antonov,RA-33623,Aviakhim Yugtost 26,0,"2 km W of Yessentuki Airfield, Stavropol Krai",sub,Mechanical Failure,0,0
+24-Oct-24,2024,Bombardier DHC-8-402Q Dash 8,Bombardier,C-GWJK,Westjet Encore,0,"Calgary International Airport, AB (YYC/CYYC)",sub,Undetermined,0,0
+24-Oct-24,2024,Boeing 737 MAX 9,Boeing,N27515,United Airlines,0,"Houston-George Bush Intercontinental Airport, TX (IAH/KIAH)",sub,Mechanical Failure,0,0
+24-Oct-24,2024,Boeing 737 MAX 8,Boeing,C-FLKO,Flair Airlines,0,"Toronto-Pearson International Airport, ON (YYZ/CYYZ)",sub,Bird Strike,0,0
+21-Oct-24,2024,Boeing 787-9 Dreamliner,Boeing,B-1243,China Southern Airlines,0,Guangzhou Baiyun International Airport (CAN/ZGGG),w/o,Pilot Error,0,0
+19-Oct-24,2024,de Havilland Canada DHC-6 Twin Otter 300,de Havilland Canada,P2-KAL,Kobio Aviation,0,Kairik Airstrip (AYKX),sub,Miscellaneous,0,0
+18-Oct-24,2024,Airbus A321-271NX,Airbus,TC-LTL,THY Turkish Airlines,0,Dublin Airport (DUB/EIDW),sub,Undetermined,0,0
+17-Oct-24,2024,Boeing 737 MAX 8-200,Boeing,EI-HAY,Ryanair,0,Alicante Airport (ALC/LEAL),non,Miscellaneous,0,0
+12-Oct-24,2024,Cessna 525 CitationJet,Cessna,PT-FEL,Hangar 18 FBO Americana Ltda.,0,"Angra dos Reis Airport, RJ (SDAG)",sub,Pilot Error,0,0
+10-Oct-24,2024,Embraer ERJ-145EP,Embraer,G-SAJK,Loganair,0,Aberdeen International Airport (ABZ/EGPD),non,Miscellaneous,0,0
+20-Sep-24,2024,Gulfstream G280,Gulfstream,N621WK,Executive Jet Management opb Kellanova,0,"Boeing Field/King County International Airport (BFI/KBFI), Seattle, WA",min,Pilot Error,0,0
+19-Sep-24,2024,Boeing 757-224 (WL),Boeing,N12125,United Airlines,0,"near Dunnigan, CA",non,Pilot Error,0,0
+17-Sep-24,2024,Beechcraft B200 King Air,Beechcraft,N102DB,Finch Air LLC opb Gryphon Air,0,"Las Vegas Municipal Airport (LVS/KLVS), Las Vegas, NM",sub,Bird Strike,0,0
+16-Sep-24,2024,Cessna 208B Grand Caravan,Cessna,5Y-ZBW,Z.Boskovic Air Charters,0,Migori Lichota Airstrip (HKMM),sub,Miscellaneous,0,0
+14-Sep-24,2024,Viking DHC-6-400 Twin Otter,Viking,RP-C6903,Island Aviation,0,"Pamalican Airstrip (RPUA), Pamalican Island, Cuyo Islands",min,Pilot Error,0,0
+11-Sep-24,2024,Airbus A330-941,Airbus,F-HHUG,Corsair,0,Paris-Charles de Gaulle Airport (CDG/LFPG),sub,Miscellaneous,0,0
+11-Sep-24,2024,Airbus A330-243,Airbus,C-GTSJ,Air Transat,0,Paris-Charles de Gaulle Airport (CDG/LFPG),sub,Miscellaneous,0,0
+10-Sep-24,2024,Airbus A350-941,Airbus,N503DN,Delta Air Lines,0,"Hartsfield-Jackson Atlanta International Airport (KATL), Atlanta, GA",min,Undetermined,0,0
+10-Sep-24,2024,Bombardier CRJ-900LR,Bombardier,N302PQ,"Delta Connection, opb Endeavor Air",0,"Hartsfield-Jackson Atlanta International Airport (KATL), Atlanta, GA",sub,Undetermined,0,0
+9-Sep-24,2024,ATR 42-500,ATR,PK-YSP,Trigana Air Service,0,Serui Airport (ZRI/WABO),sub,Mechanical Failure,0,0
+6-Sep-24,2024,Boeing 787-9 Dreamliner,Boeing,9V-OJD,Scoot,0,near waypoint TAMOT,non,Turbulence,0,0
+4-Sep-24,2024,Cessna 208B Grand Caravan EX,Cessna,N143CA,Haugland Group Aviation LLC,0,"New York Skyports Seaplane Base, NY (6N7)",sub,Pilot Error,0,0
+4-Sep-24,2024,Boeing 787-9 Dreamliner,Boeing,JA863J,Japan Airlines (JAL),0,200 km east of Seoul,non,Turbulence,0,0
+31-Aug-24,2024,Airbus A350-1041,Airbus,G-VPRD,Virgin Atlantic Airways,0,"Atlanta Hartsfield-Jackson International Airport, GA (ATL/KATL)",sub,Miscellaneous,0,0
+31-Aug-24,2024,Airbus A330-323,Airbus,N808NW,Delta Air Lines,0,"Atlanta Hartsfield-Jackson International Airport, GA (ATL/KATL)",unk,Miscellaneous,0,0
+31-Aug-24,2024,Antonov An-2T,Antonov,RF-02346,DOSAAF,0,"between Mairamadag and Koban, Republic of North Ossetia–Alania",w/o,Undetermined,0,0
+29-Aug-24,2024,Boeing 737-8FB (WL),Boeing,ET-AWR,"Ceiba International, lsf Ethiopian Airlines",0,Malabo-Santa Isabel Airport (SSG/FGSL),sub,Runway,0,0
+27-Aug-24,2024,Boeing 767-323ER (BCF) (WL),Boeing,A9C-DHAA,DHL International Aviation ME,0,Milano-Malpensa Airport (MXP/LIMC),sub,Miscellaneous,0,0
+26-Aug-24,2024,de Havilland Canada DHC-3T Vazar Turbine Otter,de Havilland Canada,C-GMLB,NDK Air Limited,0,"Kashishibog Lake, ON",sub,Miscellaneous,0,0
+24-Aug-24,2024,Boeing 757-330 (WL),Boeing,D-ABOL,Condor Flugdienst,0,Palma de Mallorca Airport (PMI),non,Miscellaneous,0,0
+23-Aug-24,2024,Bombardier DHC-8-315Q Dash 8,Bombardier,VH-QQP,Maroomba Airlines,0,"Minderoo Aircraft Landing Area, WA (YMDR)",sub,Miscellaneous,0,0
+23-Aug-24,2024,Boeing 737-470,Boeing,YA-PID,Ariana Afghan Airlines,0,Khost Airport (KHT/OAKS),sub,Runway,0,0
+23-Aug-24,2024,Antonov An-2R,Antonov,RA-33305,Gold of Ynykchan,0,"5 km from Solnechny, Yakutia",sub,Mechanical Failure,0,0
+21-Aug-24,2024,Boeing KC-46A Pegasus,Boeing,17-46028,"USAF, 22nd Air Refueling Wing",0,"Fairfield-Travis AFB, CA (SUU)",sub,Maintenance ,0,0
+19-Aug-24,2024,Boeing 737-7BD (WL),Boeing,N7734H,Southwest Airlines,0,"near Highland Meadows, NM",non,Turbulence,0,0
+19-Aug-24,2024,Airbus A320-214 (WL),Airbus,G-EJCM,easyJet,0,Italian airspace,non,Turbulence,0,0
+19-Aug-24,2024,Beechcraft 300 Super King Air 300,Beechcraft,N600KA,FMR Leasing LLC opb Private,0,"Asheboro Regional Airport (KHBI), Asheboro, NC",sub,Pilot Error,0,0
+19-Aug-24,2024,Cessna 208B Grand Caravan,Cessna,5Y-BUR,Royal Skyline Ltd,0,"Mandeng area, Nasir County",sub,Undetermined,0,0
+18-Aug-24,2024,Cessna 680 Citation Sovereign,Cessna,N680SA,BJR Management LLC,0,"Washington-Warren Airport (OCW/KOCW), Washington, NC",w/o,Pilot Error,0,0
+12-Aug-24,2024,Boeing 747-481F,Boeing,N404KZ,Atlas Air,0,Tokyo/Narita International Airport (NRT/RJAA),sub,Miscellaneous,0,0
+10-Aug-24,2024,Cirrus SF50 Vision Jet G2+ Arrivée,Cirrus,N727VB,FAFO Aviation LLC,0,"Watsonville Municipal Airport (WVI/KWVI), Watsonville, CA",sub,Mechanical Failure,0,0
+9-Aug-24,2024,de Havilland Canada DHC-8-311Q Dash 8,de Havilland Canada,5Y-SMI,"Renegade Air, opf UN Humanitarian Air Service",0,Malakal Airport (MAK/HJMK),sub,Undetermined,0,0
+8-Aug-24,2024,Airbus A321-231,Airbus,N542UW,American Airlines,0,"near Gaston, SC",non,Turbulence,0,0
+7-Aug-24,2024,Boeing 737-7H4 (WL),Boeing,N226WN,Southwest Airlines,0,"Severn, MD",non,Miscellaneous,0,0
+5-Aug-24,2024,Boeing 737 MAX 8,Boeing,TC-LCD,THY Turkish Airlines,0,Nürnberg Airport (NUE/EDDN),sub,Miscellaneous,0,0
+5-Aug-24,2024,Cessna 750 Citation X+,Cessna,N750GB,Accent Stripe Inc,0,"Chautauqua County/Jamestown Airport (JWH/KJHW), Jamestown, NY",w/o,Mechanical Failure,0,0
+3-Aug-24,2024,Boeing 777-223ER,Boeing,N793AN,American Airlines,0,"near Laclede, MO",non,Turbulence,0,0
+3-Aug-24,2024,Bombardier DHC-8-402Q Dash 8,Bombardier,7T-VCL,Tassili Airlines,0,Illizi,sub,Mechanical Failure,0,0
+1-Aug-24,2024,Cessna 208 Caravan I,Cessna,F-HVPC,Ecole de Parachutisme Sportif de Vannes Bretagne,0,Vannes,min,Miscellaneous,0,0
+31-Jul-24,2024,Cessna 208 Caravan I,Cessna,HK-3200-G,Aeronáutica Civil de Colombia,0,Bahía Solano-Cupica Airport (SKCP),sub,Miscellaneous,0,0
+21-Jul-24,2024,Antonov An-2R,Antonov,UP-A0141,Berkut Air Services,0,"10 km from Derzhavinsk, Zharkainsky district",w/o,Fire,0,0
+20-Jul-24,2024,Bombardier DHC-8-402Q Dash 8,Bombardier,JA858A,Oriental Air Bridge,0,Tsushima Airport (TSJ/RJDT),sub,Bird Strike,0,0
+20-Jul-24,2024,Hawker 900XP,Hawker,N526FC,Swamp Bird LLC opb Corporate Air Charters LLC,0,"Telluride Regional Airport (TEX/KTEX), Telluride, CO",sub,Miscellaneous,0,0
+16-Jul-24,2024,Airbus A320-232 (WL),Airbus,N633NK,Spirit Airlines,0,"Orlando International Airport, FL (MCO)",non,Pilot Error,0,0
+15-Jul-24,2024,ATR 72-600 (72-212A),ATR,YR-ATJ,TAROM,0,Oradea International Airport (LROD),sub,Turbulence,0,0
+14-Jul-24,2024,Airbus A320-214,Airbus,9H-VDS,"Binter Canarias, lsf Galistar Malta",0,La Coruña Airport (LCG/LECO),non,Maintenance ,0,0
+5-Jul-24,2024,Antonov An-2R,Antonov,RA-40983,Wings of Taiga,0,Khiloksky district of Transbaikal Territory,sub,Mechanical Failure,0,0
+2-Jul-24,2024,Airbus A330-343,Airbus,T7-MMM,"Garuda Indonesia, lsf San Marino Executive Aviation",0,NE of Jakarta,sub,Mechanical Failure,0,0
+1-Jul-24,2024,Boeing 787-9 Dreamliner,Boeing,EC-MTI,Air Europa,0,"NE of Natal, Brazil",min,Undetermined,0,0
+30-Jun-24,2024,Cessna 525 Citation CJ1+,Cessna,N865HC,Hollingsworth Intergalactic LLC,0,"Richmond International Airport (Byrd Field) (RIC/KRIC), Richmond, VA",sub,Pilot Error,0,0
+28-Jun-24,2024,Bombardier DHC-8-402Q Dash 8,Bombardier,C-GLQP,Porter Airlines,0,"Fredericton Airport, NB (YFC/CYFC)",sub,Pilot Error,0,0
+28-Jun-24,2024,Cessna 560XL Citation XLS,Cessna,OE-GZK,International Jet Management,0,Amsterdam-Schiphol International Airport (AMS/EHAM),sub,Runway,0,0
+27-Jun-24,2024,Airbus A320-271N,Airbus,ES-MBC,Marabu Airlines,0,München-Franz Josef Strauss Airport (MUC/EDDM),sub,Miscellaneous,0,0
+20-Jun-24,2024,Cessna 208B Supervan 900,Cessna,OO-SEX,SkyDive Spa,0,Spa-La Sauvenière Airfield (EBSP),sub,Mechanical Failure,0,0
+17-Jun-24,2024,Boeing 767-316(ER)(BDSF),Boeing,C-FCJU,Cargojet Airways,0,"near Milan, IN",sub,Maintenance ,0,0
+14-Jun-24,2024,Antonov An-26-100,Antonov,RA-26662,UTair Aviation,0,1 km from Utrenny Airport (USDM),sub,Pilot Error,0,0
+7-Jun-24,2024,Fairchild SA227-AC Metro III,Fairchild,LV-VDJ,Dos Mil Aerosistema,0,"Río Gallegos International Airport, SC (RGL/SAWG)",sub,Runway,0,0
+4-Jun-24,2024,Bombardier DHC-8-402Q Dash 8,Bombardier,C-FWEW,WestJet Encore,0,"Calgary International Airport, AB (YYC/CYYC)",sub,Miscellaneous,0,0
+4-Jun-24,2024,Airbus A319-132,Airbus,HS-PGN,Bangkok Airways,0,Koh Samui Airport (USM),sub,Undetermined,0,0
+31-May-24,2024,Airbus A330-203,Airbus,F-GZCL,Air France,0,N'Djamena Airport (NDJ/FTTJ),sub,Miscellaneous,0,0
+26-May-24,2024,Boeing 787-9 Dreamliner,Boeing,A7-BHM,Qatar Airways,0,Turkish airspace,non,Turbulence,0,0
+21-May-24,2024,Cirrus SF50 Vision Jet G2+ Xi,Cirrus,N18YF,JGM Aviation LLC,0,"David Wayne Hooks Memorial Airport (DWH/KDWH), Houston, TX",sub,Mechanical Failure,0,0
+20-May-24,2024,Boeing 757-330 (WL),Boeing,D-ABOB,Condor Flugdienst,0,Frankfurt International Airport (FRA/EDDF),non,Miscellaneous,0,0
+20-May-24,2024,Beechcraft 200 Super King Air (TC-12B Huron),Beechcraft,N762MC,Lee County Mosquito Control District,0,"Buckingham Airport (FL59), Lehigh Acres, FL",sub,Undetermined,0,0
+19-May-24,2024,Airbus A330-343,Airbus,HL8502,T'way Air,0,60NM SE of Beijing Airport,non,Turbulence,0,0
+19-May-24,2024,Airbus A320-214,Airbus,RA-73832,Ural Airlines,0,Ekaterinburg-Koltsovo Airport (SVX/USSS),non,Miscellaneous,0,0
+9-May-24,2024,Boeing 737-85R (WL),Boeing,9H-TJF,Corendon Airlines,0,Gazipasa-Alanya Airport (GZP/LTFG),sub,Mechanical Failure,0,0
+9-May-24,2024,Boeing 737-38J,Boeing,6V-AJE,"Transair, opf Air Senegal",0,Dakar-Blaise Diagne International Airport (DSS/GOBD),sub,Runway,0,0
+5-May-24,2024,Boeing 737-3Y0 (BDSF),Boeing,9S-AKK,Serve Air Cargo,0,Kinshasa-N'Djili Airport (FIH),sub,Mechanical Failure,0,0
+5-May-24,2024,Fokker 50,Fokker,D6-AIB,R'Komor,0,Mohéli Bandar Es Salam Airport (NWA),sub,Mechanical Failure,0,0
+4-May-24,2024,Boeing 737-838 (WL),Boeing,VH-VYK,Qantas,0,"19.4 NM SE of Brisbane International Airport, QLD (BNE)",non,Turbulence,0,0
+3-May-24,2024,Airbus A330-243,Airbus,A4O-DA,"Qatar Airways, lsf Oman Air",0,over Ethiopia,min,Turbulence,0,0
+3-May-24,2024,Embraer ERJ-145LR,Embraer,N942JX,JSX,0,"Houston-William P. Hobby Airport (HOU/KHOU), Houston, TX",sub,Undetermined,0,0
+3-May-24,2024,Antonov An-2R,Antonov,UP-A0124,Navigator,0,near Arkalyk Airport (AYK/UAUR),sub,Runway,0,0
+26-Apr-24,2024,Boeing 757-232 (WL),Boeing,N6703D,Delta Air Lines,0,"near Hogansville, GA",non,Turbulence,0,0
+25-Apr-24,2024,Cessna 208 Caravan I,Cessna,F-GUTS,C2C Aviation,0,near Gap-Tallard Airfield (GAT),sub,Undetermined,0,0
+23-Apr-24,2024,Learjet 75,Learjet,PP-DYB,Cimed & Co SA,0,"Erechim Airport (ERM), RS",sub,Runway,0,0
+22-Apr-24,2024,Short C-23B+ Sherpa,Short,N163Z,US Forest Service (USFS),0,"Hamilton-Ravalli County Airport (HRF), Hamilton, MT",sub,Undetermined,0,0
+22-Apr-24,2024,Cessna 500 Citation I,Cessna,XB-CSI,DGA Grupo de Consultoría Legal,0,"Monterrey-Del Norte International Airport (NTR/MMAN), Apocada, NL",sub,Miscellaneous,0,0
+16-Apr-24,2024,Boeing 787-9 Dreamliner,Boeing,ZK-NZC,Air New Zealand,0,SE of Bali,non,Turbulence,0,0
+13-Apr-24,2024,Bombardier DHC-8-402Q Dash 8,Bombardier,C-GJWE,WestJet Encore,0,"Calgary International Airport, AB (YYC/CYYC)",sub,Pilot Error,0,0
+12-Apr-24,2024,Cessna 525 Citation M2,Cessna,N22S,HS Flugcharter GmbH,0,"Montreal-St Hubert Airport, QC (YHU/CYHU)",sub,Miscellaneous,0,0
+9-Apr-24,2024,Beechcraft B300 King Air 350,Beechcraft,N243MH,Allen Contracting Inc,0,"Wiley Post Airport (PWA/KPWA), Oklahoma City, OK",sub,Bird Strike,0,0
+7-Apr-24,2024,Boeing 737 MAX 8,Boeing,C-FSDQ,Air Canada,0,"Toronto-Pearson International Airport, ON (YYZ/CYYZ)",unk,Miscellaneous,0,0
+7-Apr-24,2024,Cessna 208 Caravan I,Cessna,N90JF,"ISR Aviation LLC, opb Connecticut Parachutists Inc",0,"Ellington Airport (7B9), Ellington, CT",sub,Pilot Error,0,0
+3-Apr-24,2024,Boeing 717-2BD,Boeing,N899AT,Delta Air Lines,0,"near Cecil, NC",non,Turbulence,0,0
+3-Apr-24,2024,Boeing 737-7CT WL),Boeing,N567WN,Southwest Airlines,0,over Gulf of Mexico,non,Turbulence,0,0
+1-Apr-24,2024,Boeing 787-8 Dreamliner,Boeing,JA843J,Japan Airlines (JAL),0,150 km SE of Tokyo/Narita International Airport (NRT/RJAA),non,Turbulence,0,0
+31-Mar-24,2024,Boeing 727-2Q9 (F),Boeing,5Y-IRE,Safe Air Company (SAC),0,Malakal Airport (MAK/HJMK),w/o,Miscellaneous,0,0
+30-Mar-24,2024,de Havilland Canada DHC-8-314 (F) Dash 8,de Havilland Canada,C-GAIW,Air Inuit Cargo,0,Kangiqsujuaq Airport (YWB/CYKG),sub,Mechanical Failure,0,0
+27-Mar-24,2024,Boeing 757-232 (WL),Boeing,N6705Y,Delta Air Lines,0,"near Lakeland, GA",non,Turbulence,0,0
+23-Mar-24,2024,Boeing 767-338ER (BDSF),Boeing,N372CM,"DHL Aviation, opb ABX Air",0,Panama City-Tocumen International Airport (PTY),sub,Miscellaneous,0,0
+20-Mar-24,2024,Boeing 787-9 Dreamliner,Boeing,JA891A,All Nippon Airways - ANA,0,55 km S of Tokyo/Narita International Airport (NRT/RJAA),sub,Miscellaneous,0,0
+19-Mar-24,2024,Antonov An-26,Antonov,AVIONS-401,South Sudanese Air Force,0,Yida Airstrip,w/o,Pilot Error,0,0
+17-Mar-24,2024,Let L-410UVP,Let,9S-GPB,Cetraca Aviation Service,0,Butembo Airport (FZBM),sub,Undetermined,0,0
+14-Mar-24,2024,Boeing 737-8H4 (WL),Boeing,N8520Q,Southwest Airlines,0,"Como, TN",non,Turbulence,0,0
+12-Mar-24,2024,Beechcraft B200 King Air,Beechcraft,N299AV,Teton Leasing LLC,0,"Billings Logan International Airport (BIL/KBIL), Billings, MT",sub,Undetermined,0,0
+11-Mar-24,2024,Boeing 787-9 Dreamliner,Boeing,CC-BGG,LATAM Airlines Chile,0,over Tasman Sea,non,Undetermined,0,0
+9-Mar-24,2024,Boeing 737-7H4 (WL),Boeing,N411WN,Southwest Airlines,0,"near Aylett, VA",non,Turbulence,0,0
+9-Mar-24,2024,Lockheed L-100-30 Hercules,Lockheed,5X-SBR,,0,Jowhar Airport (HCJH),sub,Runway,0,0
+8-Mar-24,2024,Boeing 737 MAX 8,Boeing,N27290,United Airlines,0,"Houston-George Bush Intercontinental Airport, TX (IAH/KIAH)",sub,Pilot Error,0,0
+3-Mar-24,2024,Fairchild SA227-AT Expediter,Fairchild,N563TR,Kolob Canyons Air Services,0,"Smyrna Airport (MQY/KMQY), Liberty, TN",sub,Miscellaneous,0,0
+1-Mar-24,2024,Beechcraft B200 Super King Air,Beechcraft,ZS-TKI,,0,Kalahari Gold Mine Airfield,min,Pilot Error,0,0
+28-Feb-24,2024,Cessna 208 Caravan I,Cessna,PT-PBC,Secretaria da Segurança Pública e Defesa Social Pará,0,"Alenquer-Fazenda Tambaú, PA (SD8G)",sub,Undetermined,0,0
+25-Feb-24,2024,Boeing 757-224 (WL),Boeing,N13138,United Airlines,0,"San Francisco International Airport, CA (SFO/KSFO)",sub,Pilot Error,0,0
+23-Feb-24,2024,Cessna 208 Caravan,Cessna,N85WL,Willis Lease Finance Corporation,0,Miami Seaplane Base (X44),sub,Undetermined,0,0
+18-Feb-24,2024,Boeing 767-332ER (WL),Boeing,N176DZ,Delta Air Lines,0,"TMA Bogota, Sector North",non,Turbulence,0,0
+18-Feb-24,2024,Embraer ERJ-195LR,Embraer,OY-GDC,"Marathon Airlines, opf Air Serbia",0,Beograd-Nikola Tesla Airport (BEG/LYBE),sub,Pilot Error,0,0
+14-Feb-24,2024,Hawker Beechcraft 400XP,Hawker,N95GK,PDII LLC,0,"Bentonville Municipal-Louise M Thaden Field, AR (KVBT)",sub,Maintenance ,0,0
+12-Feb-24,2024,Britten-Norman BN-2A-21 Islander,Britten-Norman,HC-CXK,ESAV Airlines,0,"ca 1 km N off San Cristóbal Airport (SCY), Galapagos Islands",w/o,Pilot Error,0,0
+10-Feb-24,2024,Boeing 777-222ER,Boeing,N788UA,United Airlines,0,"near Kelsey, NY",non,Undetermined,0,0
+9-Feb-24,2024,Airbus A300F4-622R,Airbus,D-AZMO,"European Air Transport, opf DHL",0,Leipzig Airport (LEJ/EDDP),sub,Pilot Error,0,0
+9-Feb-24,2024,McDonnell Douglas MD-82,Boeing,5Y-AXL,African Express Airways,0,Malakal Airport (MAK),sub,Pilot Error,0,0
+8-Feb-24,2024,Airbus A321-231 (WL),Airbus,N956JT,Jetblue Airways,0,"Boston-Logan International Airport (BOS/KBOS), Boston, MA",sub,Miscellaneous,0,0
+8-Feb-24,2024,Airbus A321-271NX,Airbus,N2157J,JetBlue Airways,0,"Boston-Logan International Airport (BOS/KBOS), Boston, MA",min,Miscellaneous,0,0
+1-Feb-24,2024,Boeing 787-9 Dreamliner,Boeing,JA899A,All Nippon Airways - ANA,0,100 km SSE of Chubu Centrair Internationl Airport (NGO/RJGG),non,Turbulence,0,0
+28-Jan-24,2024,Honda HA-420 HondaJet,Honda,N103JT,"Frayer Jets 7 LLC, opb GC Aviation",0,"Orlando International Airport (MCO/KMCO), Orlando, FL",sub,Turbulence,0,0
+26-Jan-24,2024,Beechcraft C99 Commuter,Beechcraft,N53RP,"Ameriflight, opf Wiggins Airways",0,"Londonderry, NH",w/o,Undetermined,0,0
+25-Jan-24,2024,Cessna 208 Caravan I,Cessna,VH-ZWH,Sydney Seaplanes,0,"Sydney Harbour, near Rose Bay Water Airport (RSE/YRAY), NSW",sub,Miscellaneous,0,0
+21-Jan-24,2024,Airbus A350-941,Airbus,F-HTYH,Air France,0,"Toronto–Lester B. Pearson International Airport, Ontario (YYZ)",min,Miscellaneous,0,0
+21-Jan-24,2024,Cirrus SF50 Vision Jet G2+,Cirrus,PS-DAO,RBL Guindastes e Transportes Especiais Ltda,0,"Angra dos Reis Airport (SDAG), Angra dos Reis, RJ",sub,Mechanical Failure,0,0
+20-Jan-24,2024,Cessna 208B Grand Caravan,Cessna,5Y-SPZ,IMI,0,Kasese Airport,sub,Miscellaneous,0,0
+18-Jan-24,2024,Bombardier DHC-8-402Q Dash 8,Bombardier,ET-AVS,Ethiopian Airlines,0,Mekele Airport (MQX/HAMK),sub,Mechanical Failure,0,0
+17-Jan-24,2024,Airbus A320-214,Airbus,D-AICP,Condor Flugdienst,0,München-Franz Josef Strauss Airport (MUC/EDDM),non,Miscellaneous,0,0
+11-Jan-24,2024,Learjet 55,Learjet,N558RA,Royal Air Freight,0,"Mission Field Airport (LVM/KLVM), Livingston, MT",sub,Pilot Error,0,0
+10-Jan-24,2024,Boeing 737-924ER (WL),Boeing,N62883,United Airlines,0,"Houston-George Bush Intercontinental Airport (IAH/KIAH), Houston, TX",sub,Pilot Error,0,0
+8-Jan-24,2024,Cessna 208B Grand Caravan,Cessna,VH-NWJ,East Air,0,"Lizard Island Airport (YLZI), Lizard Island, QLD",sub,Mechanical Failure,0,0
+5-Jan-24,2024,Boeing 737-8Q8 (WL),Boeing,LV-KJE,Flybondi,0,"Mar del Plata-Astor Piazzolla International Airport, BA (MDQ/SAZM)",sub,Miscellaneous,0,0
+5-Jan-24,2024,Boeing 737 MAX 9,Boeing,N704AL,Alaska Airlines,0,"Portland, OR",sub,Maintenance ,0,0
+2-Jan-24,2024,Learjet 35A,Learjet,N46MF,Med Flight Air Ambulance Inc,0,"San Marcos Regional Airport (HYI/KHYI), San Marcos, TX",sub,Pilot Error,0,0
+23-Jun-21,2021,Lockheed L-100-30 Hercules,Lockheed,,Ethiopian Air Force,0,near Gijet,w/o,Miscellaneous,0,0
+24-Feb-22,2022,Antonov An-26,Antonov,RF-36074,Russian Air Force,0,"near Ostrogozhsk, Voronezh Region",w/o,Pilot Error,0,0
+27-Jan-23,2023,Ilyushin Il-18D,Ilyushin,TL-KBR,,0,Al-Khadim Air Base,w/o,Fire,0,0
